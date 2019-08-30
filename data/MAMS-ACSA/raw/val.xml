@@ -1,0 +1,2891 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sentences>
+	<sentence>
+		<text>I would wait for a table next time, the food was that good.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We did complain to the manager, but she just said there are problems in the kitchen and took the drinks off bill.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the service was inattentive (didn't bring us wine til our main course was already served and didn't open the bottle in front of us!!!</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>decent, if greasy, fishsticks, but served on a mound of soggy fries that could feed about 5-6 people!</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The Filet Mignon is awesome, along with everything else on the menu.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I tried that on a Friday, told the guy otside the door that I did not have a reservation and he said, You may as well just leave now.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>HIGHLY RECOMMENDED, MAKE RESERVATIONS FAR IN ADVANCE TO AVOID LONG WAIT TIMES.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The hostess made sure we knew where the lounge was since all the seats at the bar were full and had the waiter come over to take our drink order.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Aside from the Sea Urchin, the chef recommended an assortment of fish including Fatty Yellow Tail, Boton Shrimp, Blue Fin Torro (Fatty Tuna), Sea Eel, etc.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Pork chops is probably the best choice on the menu.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our waiter was ever so helpful as he stood back and watched my sister and I physically move our table.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Ofcourse the restaurant is new and perhaps they have some kinks to work out, but it for the same price you can get a higher caliber brunch at Banania or Cafe Luluc on Smith St.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The Scene Schnack feels a lot like a roller-rink concession stand circa 1982, from the deep vinyl booths and beat-up chairs right down to the loud music and plastic menu boards.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="menu" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Having heard that the steakhouse had a tendency to overcook the steaks, I asked the waitress that she ask the chef to prepare it closer to rare than medium.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="staff" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>After waiting more than 15 minutes for our order to be taken and then having the waitress not know how to make certain drinks, our party of 7 was obviously dissatisified.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The service is great - they are very attentive and fast, however, they do make faces and comments when you order alot of the ALL YOU CAN EAT food.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Catch a Yankee, Mets game, have a burger and great conversation with the bar keep.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Fantastic flavor, but certainly not worth the high price of the small glass.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the manager was nice profecional and service was average but the food was not italian, a diner is better, try po'</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our waiter seemed to really care about getting us to the show on time, and made some good reccomendations on the menu for doing it.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Bill for three with 7 plates, glass of sangria each and coffee and one dessert was 45 each with tip - not too bad but a tad overpriced for the serving size of the dishes.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Stay away from the two specialty rolls on the menu, though- too much avocado and rice will fill you up right quick.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Also, the staff will not allow you to substitute a side dish or accommodate anything that differs from what's on the menu.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food is above average, though the portions a tad small, even for tapas; but they more than make up for it with their wonderfull mojitos.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>After being given a bad table at Becco and leaving there, we walked around and decided on Da Rosina because the price was right and the menu looked good.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="price" polarity="positive"/>
+			<aspectCategory category="menu" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our waiter was inattentive throughout the meal, took nearly 3 hours for dinner.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The service was attentive but overdone for the tiny and very ordinary setting and poor food.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We waited in the bar area and had an excellent time waiting for dinner with the bartender and staff.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Had the calves liver alla veneziana in a fine rich and complex sauce with perfectly fried onions.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Sure the service isn't the best but the food is tasty and the prices are great.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I ordered the flounder special - the fish was fresh but the dish lacked flavor.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Don't let the all-Italian menu intimidate; the waitstaff patiently translates each item.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waitress never came back to get drink refills and we didn't get water until we were halfway through our dinner.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Great place for a first date or dinner with a picky group.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Maybe I've just gotten lucky with seating, but I've never had more than a ten minute wait.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="service" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We were put on the wait list, seated in 15 min after a quick drink at the bar and had an incredibly entertaining waiter and dined next to a few regulars who raved.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I'd recommend getting an appetizer b/c the dinner takes a bit to be cooked, but it was definitely worth the wait.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>After ordering a good amount of sushi the waiter asked me if that was all I wanted.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="staff" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The guy was pleasant and friendly but that only goes so far when you are hungry and have to wait 2 hours for a pizza.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>For 2 patrons paying over $100 for dinner, you'd think that the waiter would check to see if everything was okay with the dining experience, and he certainly did not.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Even a modest bottle of wine was accurately described by the wait staff and pleasing.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>He met me for wine tasting/sampling of food the week before and made sure that the service was on their toes.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Buffet fare is better than the regular menu and you don't have to deal with the waitstaff.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When she wasn't being sarcastic or downright rude, she spent her time studiously ignoring our table or pointing us out to the other waitstaff.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="staff" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our spastic waiter was running around like a chicken with his head cut off, and, thus, slow to take our order, slow to bring us our drinks (they sat on the bar for 5-10 minutes) and slow to get us the water we had to ask for repeatedly.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We had an hour for lunch, and service was impeccable each time.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The menu is an exact replica of its sister location in New Mexico - right down to the Frito Pie (don't knock it till you've tried) and a killer array of margaritas.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Also, neither our waiter or busboy ever came back to ask if we wanted more to drink or even refill our WATER glasses.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I just think the prices are high for the type of food the kitchen turns out as well as the portion sizes.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Sit at the bar and eat here regularly and the sushi chef who is also the owner will hook you up the best cuts of fish.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I used to love the Dog but now its become a metling pot of really undesirable people.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We had reservations and were seated immediately, got a nice table by the window.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>ambience and decoration was nice but for a check of $330 for 5 for brunch and with just average food.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We placed a delivery order - 2 pastas and a caprese and they took and 1 1/2 to get here and the food was inedible when we received it.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>service is quick, not overly friendly, but hey it's a small place and the servers are constantly busy.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The appetizers are really pricey particularly once you see the size (or lack thereof).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>It is never a ridiculous wait no more than 30 minutes, in the meantime you can chat with your friends and start the week-end off right with a signature drink from the bar!</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>PS : to the waitresses and waiters at Shanghai Cafe(new name of Shanghai Gourmet) if you don't like your job, don't work there.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Despite the servers' best intentions, it's easy to feel rushed while perusing the menu -- an awkwardly large blackboard.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>This place basically has the same menu as Penang but everything is cheaper, including the atmosphere.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>As we looked at the menu and the wine list, my friend overheard the manager comment to a waitress about me that the least he could do is wear a button down shirt, and not show up dressed like a Gristede's boxcutter.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I said, that would be fine and had the hostess confirm my reservation before hanging up.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>My date and I were excited to go, and didn't even mind the 25 minute wait (EVEN WITH OUR RESERVATION) to get a table.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>After waiting to get a table for over a half hour even though we had reservations, we went up to the host.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Deborah, the chef and co-owner, is an extraordinary talent - she has not received the notoriety she deserves - and her food, while not expensive, really merits a two or three star rating.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Sometimes I wish there were a bar to sit at and have a glass of wine, but on the other hand the lack of one allows the place a pleasant sit down sort of feel.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>* Rude waiter - he kept pushing us to get appetizer (after been told twice that we would like to start ordering entree) and after dinner, told us to check out the shelf ourselves on our way to the restroom for dessert menu.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Service was a treat from my French (Canandian)waiter who knows more about wine than anyone waiting on me in NYC in a long time.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We asked for the check and had to wait 20mins for the waitress to come back and take our card.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>But overall loved the place, outside of our waiter who literally tried to force us into ordering drinks.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>After losing our reservation the staff at March called 24 hours later to apologize and ask if we would still like to dine there.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>My wife and I had an 8:30 reservation, we show up a few minutes before and the host mumbles something to us about waiting at the bar and they'll tell us when the table is ready.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I had a nice time, place was crowded but the food was very good.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="place" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>) My date and I were greeted by the host and informed there would be a slight wait.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="service" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The entire restaurant staff was disappointing to begin with (any waiters over 17 with some knowledge of the menu or wine?</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The small wooden bar and counter up front incorporate a wine rack and dessert display.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>But a server coming up to the table chewing gum while she went through the specials is not my idea of professional.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The servers were snobby and got mad at me when I asked if they serve by the slice.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The menu of Afghani favorites includes mantoo, the spicy beef dumplings in yogurt sauce; chicken with walnuts and pomegranate juice; saffron-marinated filet mignon; grilled Cornish game hen; meat and fish kebabs in various combinations; and a number of vegetarian rice- and bean-based dishes.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Affordable starters comprise most of the menu: Cheese plates with sweet-sour chutneys, spicy lamb-stuffed fried olives and plump mussels baked under saffron-herb breadcrumbs are addictive, but signature tigelle panini fixings shouldn't be missed.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Knew we were in trouble when the waiter spilled our cocktails on the table and couldn't be bothered to bring new silverware.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Went for dinner last Friday night with 2 friends, and the staff was incredibly nice.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Nothing too special about the location or the atmosphere, but DAMN, the pizza is good.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Overall, cute place with poor service, and even worse food.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>As for price, there are plenty of Shanghai restaurants in Chinatown that are just as inexpensive with better food and without a doubt much better customer service.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>My one complaint: Even though we arrived at our reservation time, the host asked us to wait at the bar -- then forgot to seat us (I had to ask).</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>And the waiter actually replied, yes that's why it took you so long to get a reservation.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Although it was quite good, the small portions at this table of 4, including appetizers, did not constitute adequate sustenance.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When I pointed this out to the waiter he told me that all of the lox is like that.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We had to wait 30 minutes before the waiter even came to our table and had to ask 4 times just to get a glass of water.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The place was packed but we were able to get drinks at the bar w/out a problem despite the crowd.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>However when I returned to my table the waiter immediately came over and said So I guess we are celebrating a birthday here.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The wait (despite reservation) was 35 minutes (in an over-crowded bar) no apologies whatsoever.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="place" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Although, a limited menu, we had no trouble picking out our delicious meal.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>It's got funky, fun furniture and a round bar at the front, which is convenient for those waiting to be seated and be prepared to wait for a while, if you don't have reservations.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waiters are sometimes grouchy and the decor doesn't change, but the food is always delicious and satisfying.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The bar is small so come close to reservation time.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The lunch got a little bizarre when we asked the waiter how the joint got it's name, and he made his hands into cups in reference to placing them on a woman's breasts and said, No, not this.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The Food Despite the restaurant's name, the menu is remarkably Atkins-friendly, from the nibble bowls of spicy fried chickpeas to the grilled slabs of salt-flecked, smoky rib-eye, succulent chunks of rosemary roast chicken and fat tubes of springy grilled squid.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="menu" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The owner roasts his own meats and makes fabulous and interesting sandwiches--the house-roasted ham with celery-root salad and tomatoes on a baguette deserves a prize.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The Scene At this sleek spot on a relatively sparse stretch of Spring Street, regulars belly up to a small bar and greet owner Giorgio DeLuca, of Dean and DeLuca fame, with warm hugs.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The kitchen also offers just a few sushi-free entree options, such as a masterful tempura dinner and chicken or salmon teriyaki.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>After fifteen minutes, when nobody even took our drink order, I looked around to try to get our waitresses attention only to see she and about five others of the waitstaff were having an endless gabfest by the register.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>By this I mean that the guy selling hotdogs outside of Grand Central has given me better service.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I went to Mocca with my boyfriend for a few drinks and food, and I was really impressed by the service.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Unfortunately, service was slow and when our server noticed we had not received our entree he comp'ed us two delightful margaritas - AND charged us only for appetizers , thereby cutting our bill in half.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="price" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>First had a cheese platter at the bar and then enjoyed a nice dinner with friends.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food is so good that there tends to be a little bit of a wait.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I've had the same steak at Peter Lugers for double the price.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When we finally got our waiters attention - and explained to him we were unhappy with our entrees, his demeanor changed completely, he took our dishes and walked away without taking another order for us or asking if he could get us anything else.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="neutral"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I would only recommend this restaurant to a friend if waiting at least 40 minutes for your RESERVATION is acceptable, and you don't mind paying for relatively standard fare.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our waitress was so fun- I wanted her to join us for dinner.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>No condiments on table or offered, service average, smokey upon arrival as the kitchen is fully exposed and the space very tight.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waitress came back to our table several times to ensure we were well catered for.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Here's how it works: you walk in, sit down, and have a vegetarian thali (group of little portions of curries) that invariably includes lentiles, a small salad, some rice, some kind of samosa-like pastry, yogurt, rice, and a couple of sauces.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>They have a great selection of wines, and have recently expanded with a Wine Bar around the corner that's accessible through the main dining room.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>For the price ($8), the quality of the buffet is great!</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The Food Chef Nao Sugiyama serves in the traditional kaiseki style--a kind of tasting menu consisting of between six and 12 small courses.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="neutral"/>
+			<aspectCategory category="menu" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We sat in the tables in front of the bar and it was a good people watching spot.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Though if the restaurant got bigger, the service and quality of the food would probably suffer.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>from the white sheets that hang when you come into the restaurant, to the gorgeous marble communal table in the center of the bottom floor, to the great atmosphere upstairs at the bar.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When I look at the menu I was surprised at the relatively high price compared with other korean restaurants.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We waited for thirty minutes for our table, and after inquiring once about the status, we were rudely confronted by the hostess.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I had a reservation for a Staurday night and after a 1 hour and 45 minute wait, we still were not seated!!</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We were lucky because chef Gari was there when we visited, and himself prepared the platter for us.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>On our second trip, our waiter had an attitude, was slow to bring/refill drinks, and we had to flag him down for EVERYTHING.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Although we didn't have a reservation, my husband and I enjoyed the food and drinks at the kitchen side seating.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>servers never ONCE asked how we were doing - they brought out food late and if extra additions were requested, they came out 20 min after.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>As we were wrapping up a very rushed meal--appetizers were barely started when the entrees arrived crowding a table for two at which three were crammed--the hostess charged over and grabbed a half-full wine glass declaring thanks ladies, I'll get your check.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="price" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our waitress (and the chef himself) helped us a bit with the Austrian cuisine where we had questions, and every recommendation was right on.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>My party got the dessert sampler which included 6 highlights from the dessert menu--each of which were worth the price of the three course meal ($90 per person with margaritas, tax, and tip).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waiter never once came back to our table to ask how our meal was OR if we needed another drink.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our waitress' visits to our table were few and far between.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The ambience is simple, yet elegant and be sure to finish your meal with their famous shlog.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The decor is a little plain and the seating is a touch too close but its worth it for the food.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>After making our party wait for about an hour past our reservation time (which we chalked up to it being a busy Friday night), they gave us a wobbly makeshift table that was set up in the path of the staff rushing out of the kitchen.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food is average and the service is insulting.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I was accompanied by foodies, yet the waiter treated the few questions people had about the menu as if he was dealing with diners who had never eaten at a decent restaurant.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="price" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The atmosphere is nice - it's all dark wood with the bar in the front.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>And after we ordered our food, their wine guy suggested the wine that he thought would go best with our selections, and it was surprisingly not a high-priced bottle.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I requested the waiter to seat us at a different table, and he was like 'its the same everywhere', and walked off.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Snack on a bowl of fried chickpeas while you browse the menu, then move onto the tender lamb skewers, which arrive atop a slab of French bread, perfectly poised to catch the meat's sweet drippings.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The place is hip and the decorations funky, but the food is lacking.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i would not go after the early bird b/c its not worth it, find better food for full prices.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I would not return for a $30 entree of inadequate portions.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Waiter ignored us, never asked if we needed anything, never received a dessert menu or asked if we wanted coffee, or even the check.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food at Forest Hills was great, the service more than perfect, but but the ambience was too hot they do not have AC and the employes was sweating a lot , it was a nasty esxperience because I eat in front of the service that was sweating like animals.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The menu goes on to include some of traditional greek favorites but each has a twist that will suprise and delight you.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>To make matters worse, the waitress followed us out, and demanded that we leave a better tip.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>be prepared for a long wait at dinner.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We ordered the recommended dessert ahead of time as they suggested but when it came time for it, the waiter had forgotten it.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>if you do though just wait at the bar (yummy drinks!</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>This restaurant has taken the trend of serving tiny portions on oversized plates to a new level.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>IT'S GREAT COFFEE BUT THE SERVICE IS SERVED WITH BIG TIME ATTITUDE.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>There was a nice atmosphere except for the few pompous patrons who looked way too gaudy or a lunch time meal, but overall its a great place to eat.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waiter knows us now, and the owner bought us a round of drinks once because the dessert took too long (in his opinion, we didn't even complain).</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>After each of them had had one drink, one of the managers came up to our table and told us that he no longer felt comfortable serving us any more margaritas.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The staff even went out of their way to print up menus without prices at my request, since the dinner party was my treat.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Great place to go for a lunch date or for coffee after a date.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>However, you're bothered by things like sub-par food (don't get the cajun fries), waiters who hate you and anything that looks like you, close proxmitity with strangers, and cheap talking and singing skelletons, do NOT go.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>And like all McNally hot spots, it crackles with energy, particularly from the groups who gather to share a bite in the bar.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our reservation was for 9, didn't get seated until 9:20 with no acknowledgment by the staff of the delay.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>At the end of the meal, I politely asked the waitress whether she would comp something, and she said yes.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The service is more than attentive, and they also have a $10 corking fee so you can bring your own wine.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The service was good, if a little slow, and the place was very crowded (which can be comforting, but on a date it may be hard with the constant noise).</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When I tried getting a lunch order delivered, I was told I was out of the delivery range (strange since I am also located in the East Village).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The tables are a little too close together, but when the food is this good it's difficult to be distracted.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The last three times I've called (in addition to asking me to wait for a long time before taking my order), they've given me grief about asking for delivery even though my address is clearly within the map printed on the menu, just because the delivery guy gets mad if he has to go out of his way.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>WHen I politely asked for a water he pointed to the waiter and looked the other way!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The presentation of some of the dishes and desserts were great but taste and quality of the food was sub-par especially for the prices that we were paying.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The margaritas took me on an instant vacation, and although there was a bit of a wait for a table, the food was well worth it.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food did come out quickly and was good, but not worth the prices or the wait.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Stumbled unto this little gem early one saturday afternoon and was thoroughly pleased with the wonderful little backyard.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>A terrific place to eat breakfast, lunch or dinner.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our waiter didn't even bothered to ask for dessert.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The main floor space is lovely, but cavernous (which means *VERY* noisy), so our server was especially patient with us since we couldn't hear each other or her half the time.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our waiter didn't really know the menu and was not attentive.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The daily fresh fish can be remarkably good, served in a variety of combinations, ranging up to the omakase chef's choice dinner.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="staff" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Since we already have our drinks there is no choice, so we are forced to pay full price.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>NOTE: Plan ahead, make a reservation and arrive early - parking is tight in the area - valet service is available if all else fails!</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>They charge $24 for entrees and ask additional price of $3 for rice or $6 for vegetables as side dish!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Clever decor with lower false ceiling to distinguish the bar area.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I love the creative rolls that they have on their menus, and none of them were a disappointment.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When I went in for dinner this Sunday, after a 2 month absence, I noticed their addition of table cloths, which really add to the ambiance and I noticed that their wine list has been expanded.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our waiter forgot about us for long periods of time and never even offered us a dessert menu.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The only problem we had was with an incompetent waitress and floor manager which slowed down our food and seating.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>If you want great Italian food, fairly price, good service, in Brooklyn, a couple of subway stops from Union Square,(where you should complain about the prices) go to Al Di La.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>This review is based on breakfast/brunch: I called on Saturday for a table the next day (knowing it was unlikely that I'd get one) and the reservations person told me that there were no tables available.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="place" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The centerpiece of the menu is a range of sushi and sashimi sets: standard pieces and rolls that are adequately fresh and reliable.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>My husband and I sat at the bar, and service was excellent.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>None of us were able to get drinks in a timely fashion, and the bartender was EXTREMELY rude to us.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We arrived at Crema at 7:50 and the hostess advised she had no record of my reservation.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I've ben waiting to try Al Di La for a while, but the menu just never grabbed me.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="menu" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>A few of us went the other night for cocktails (half price!)</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waitress had the gall to ask us to close out our check when she brought our food so she could go home rather than wait for us to finish (hey babe we waited for YOU, you can wait for US).</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The hostess failed to give us menus, and we had to ask our waiter for them.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Portions enough for 2 meals.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>There is no way the food and service here are worth the prices they charge.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the 3rd however, the waiter forgot to put in our order for food and we ended up waiting an hour for them (b/c they were really busy).</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Fun atmosphere, good beer selection, but meals were skimpy portions on big plates and the service was weak - never had the same server/waitperson come back twice.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i've ordered a cheese plate there, too- the kitchen makes it for you even though it's not on the menu!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="menu" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>not large portions - my boyfriend's entree looked more like an appetizer, and all we got out of the dinner was a $100 tab and hunger for more food.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Cute decor, but rather small so the dining room can get very smoky if the bar is crowded.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="place" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>While the bar is expansive, the ceilings are high, the tables are spacious and the plates are oversized, where is the food?</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When the bill finally arrived, the head waiter sternly told us that this time is okay, but next time you have to order more than 2 appitizers and a main course!</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Try a traditional latin favorite like Arroz con pollo (yellow rice w/ chicken red bell pepper) but meat lovers should definitely not miss out on the churrasco!</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waiters knocked over my purse 3 times and spilled water on the table 3 times as well.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The point of dining here is to get several Tasting plates (two of us shared 5 @ $12/each and were quite full), and try as many of the dishes on the menu as possible.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>No dress codes, no attitudes, plenty of comfort companionship, a great place to relax in an always busy Midtown.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>ASK for spice adjustments or for special orders, if you think you'll need them, BUT most dishes are GREAT as the staff prepares them.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="staff" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Waiters poured wine like water, my guests were wondering out loud if they would get straws for the wine next.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Even though the food was prepared nicely, it was definitely lacking flavor.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waiters were rude, and the appetizer dip had bits of bread in it from someone else's dinner.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The hostess was totally not accomadating, and even though there were empty tables they still didn't seat us!</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Could have gone to Pastis for a salad three times the size for the same price.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When they brought out the food the waiter dropped one of the plates right in front of us and didn't appologize or bring us out a complimentry plate.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Where else can you go to get freshly made Italian food at ridiculously low prices?</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Caffeine addicts will have to find their fix elsewhere as coffee is curiously not on the menu, but the Singha beer and decent wine list more than compensates.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>If you've got the money and don't mind being packed in like sardines - then cozy on up to the Sushi Bar (much better than a table) and let Gari work his Omikase magic.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>So we said we would have a drink at the bar (the only redeaming quality or value in the whole place was the bartender and the big vodka sour she made me).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The drinks are just as expensive as the chain coffee houses.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I had to chase down our waitress for the food and the bill.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>They draw you in with a fancy looking decore which obviously cost a mint, ply you with overpriced wines (one bottle I knew was a 6$and they had the nerve to charge 40) This place sufferes from the same problem Areos does, it rests on its reputation.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Basically, all the food on the menu is a half-ass'd attempt at vietnamese food, followed by a innappropriate heap of MSG to make up for the lack of any flavor.</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Waitress was unenthusiastic and refilled my water only after I asked her to but did not refill my date's empty water glass?!?!?</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the setup is cool with pool table and chill area in front and dining on side and back.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We were told by the front door hostess since we didn't have a reservation, it would be about 45mins for a table, but we could wait at the lounge and they would get us when our table was ready.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>4-Got attitude from the waitress at every moment she was at the table.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The Scene An outing to this ski lodge-sized hot spot, with one of the city's most expansive and popular outdoor patios, feels more like a night spent at a fashion show than dinner at a restaurant--and not just because of the celebrity sightings.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Went with three people last saturday night - half way through our entrees we tried to order a second bottle of wine - both the hostess and waitress told us no, cause, ehh, the place is very crowded this night guys.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="place" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Very cheesy wanna be romantic decor and entertainment, but have some vodka and you want to come right out onto the dance floor and dance the night away to a mix of really bad russian and american disco music.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Few styles of cooking place such an importance on texture--baby eels in a sizzling slick of oil, for example, is nudged just a shade away from pasta by the crackle of tiny bones under your teeth.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>This place is so unexpected, just a tiny little bar, but it serves dinner and even a really good weekend brunch.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Also the waiter anever asked if the steaks were cooked to out liking or if we wanted anything else.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>after dinner we went downstairs atmosphere was completely different , nice crowd , we stayed there more time than expected.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The Scene Shun Lee Palace is popular with midtown locals, possibly because the upscale room means you can impress a client and have Chinese for lunch at the same time.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>this place was ok I guess since they have karaoke goin' on with a free shot if you sing.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Food was ok, but not worth the 1 hour wait (we sat down an hour after our reservation time) If you are going to make people wait a LONG time, then at least build a bigger bar.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Food is average, service is awful, and the attitude isn't New York - it's just plain rude - and most of NYC is caring and courteous.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We went there just for dinner, and the place was so good we didn't leave.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>There was a short wait for a table, which we spent at the bar, then we were seated on their patio.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Sadly, many people feel the need to berate their server for a stronger drink.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Flavors range from standards to hard-to-find Italian options, like tiramisu, hazelnut and zuppa inglese.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The dinner menu promises creative-yet-comforting fare, such as beef brisket in a red wine and fig sauce, panko-crusted tofu over hijiki salad, and a six-spice beef burger.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I read about this place in the Post, but never stepped foot in it I ordered a red velvet cake to be delivered to lOwer Manhattan; It got there, and the broads at the office raved about it!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>it's a joy to watch the chef work, who refused to take my order but seeing him open my live scallop made me understand why.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The mussles had be be a portion of maybe 8-9 mussles only and the gnocci were basically all garlic- garlic is just meant to be a condiment- way tooo much garlic.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Do not go to this restaurant unless you like paying high prices for small protions, ordering a drink that arrives 20 minutes later, or ordering a meal only to get the side dish 5 minutes after you're done.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>2 weeks ago, I decided to set up a birthday dinner in this establishment and was wary with the reviews I've read in City Search but it seems to be a perfect scene.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When he mentioned that a pinot noir would be a decent match with two disparate plates of a first course (and the even further disparate second course- yes we informed him of our total meal choices PRIOR to our wine selection).</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When we went to dinner here, the place was empty, which should have been a clue.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>At 1:15 we were still waiting for our plates!</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Went on a 3 day oyster binge, with Fish bringing up the closing, and I am so glad this was the place it O trip ended, because it was so great!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our group of 8 had about five small plates that we thought were the best on the menu.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>In Short Take a quick trip to Maine at this classic lobster pound where the outdoor picnic tables are the prime seats in summertime.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our server was just fantastic, she recommended that we order a lot of different dishes, so we did, we tried almost everything on the menu, we were a party of six and the whole group enjoyed everything.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We got there a bit early and the staff wasn't ready for us but we didn't mind b/c we got to wait by the beautiful bar.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Great place to meet friends or co workers for drinks, dinner or both.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="neutral"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The chorizo was a memory and sounded better on the menu.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Nevertheless, after waiting for an eternity to be seated, we finally sit down and wait for our menus, wait for our food, and to our surprise the food was minimal relative to the price.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>At the end of our meal, I approached the waitress and asked that they not charge us for the $25 appetizer.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>we completed our cocktails long before the waiter brought our starters (which did not come until 30 minutes after we had been seated).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Well, the manager rudely informed us that this was how the food is supposed to be served (one course every 30 or so minutes) and then claimed that Oliva is NOT a tapas restaurant.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The singing wait staff are great, the food is just awful!!</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>After waiting 40 minutes for a table and 30+ for our entrees, our waiter was distracted.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When I couldn't hear any of my selections in the dining room, the manager told me that the broken speakers in were 'not his fault'</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Overall, I good place to take a date or have a small group of friends for dinner.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The service was adequate though we did need to keep asking for water and the drinks from the bar took a long time- plus the restaraurant was not crowded.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I can only speak as a non-Indian, since we both come from an originally American palate, but Indian cuisine, both Northern and Southern, is my favorite non-Western cuisine, and I'm always on the prowl for something delicious and worth the price.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>: after ordering a bottle of wine (which was originally, inexplicably mistaken for 2 glasses of it), the (2) waitresses in charge of the outdoor space claimed that the bottle was right there in the only cooler used to service about 10 tables.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="service" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The decor is worth a mention, with plush seating areas that range from bar stools to table/chair combos to full sofa areas.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The service was very good, although the food was mediocre.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The wait can be long especially during brunch time but worth it.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>This was after we told the clueless hostess we only wanted to have drinks, and she seated us at a table.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Even some of the staff that was working that night was served their dinner before my table got our dinner entrees.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Although the wait staff was friendly, the atmosphere was not.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>better for dining with friends/significant others.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i won't be going back, and i'll tell all my friends not to go--you guys could have the best mussels in the whole world, but that waitress must be keeping a lot of customers away.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I called ahead and was told that there would be no problem seating a party of two at 5:30, arrived at 5:30, was told there would be a 5 to 10 minute wait.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food was so not Shanghai, but apparently those in the crowded dining room and waiting for tables wouldn't know the difference.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I'll give it to Sea; the decor is pretty cool and the food was good, but the service was beyond terrible!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The wine list is good, and overall it is not too expensive, though, and the atmosphere is very dark and brick-covered, much like any damp basement.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Compared to New York prices, the menu seems reasonably priced (it is not cheap like Fridays, but is reasonable compared to top quality food experiences in this city).</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>If she was a bit more sophisticated, she wouldn't have been impressed with the list, but rather with the clientele and atmosphere.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We were so excited since I was reading great review of this place, however we were disappointed with the taste of the food.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food was average; I could have had a better meal at the local pizza place.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>While the service and setting were average, the food was excellent.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Within 10 minutes of being seated at our table, the hostess asked us if we could move.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We were just settling the bill, when a waiter I can only assume held a controlling interest in the restaurant (else he would've been fired long ago) came to the table and demanded to know why someone (our friend who'd briefly left to use the restroom) had left her beer half-full.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waiter was attentive but not overbearing and gave good recommendations on the cocktails.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the waiter never asked if we would like more drinks, we had to flag him down and ask him and then when he brought them he forget two of them.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>You should not go to a Brazilian BBQ place and have to chase the waiters and go to the hostess ASKING FOR MEAT.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>(dissapointed) Over price for a lunch menu, including the lunch specials(be smart.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>At best, it's a mediocre restaurant, forget about the fish variety, I asked for Char (A sushi staple), and received a blank look from the waiter, same fish here as any grocery store.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Half an hour after our appetizer was cleared, the waiter told us it would take more time to get our main courses.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The Scene There's nothing fancy about this joint, where the line for takeout often dwarfs those huddled at the three patio-style tables.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="place" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>But despite that our dinner took far too long to be served.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food is decent, average bistro food, the decor is nice, but the service is poor, the waiters always seems to have to many tables andcant keep up with a good services.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="place" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I was shocked to have gotten no apology from the management, and to top it off were charged for the drinks we had while patiently waiting for food that never arrived.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the staff were pleasant and easy-going and took time to explain the specials to us as well as answer any questions we might have had.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The first time we went there had been a party of 10 that was just seated and the rest of the tables were all full, so we decided to take the drinks to go.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Besides the food, the ambience reminds one of being in your grannie's dining room.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="neutral"/>
+			<aspectCategory category="place" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Although the prices are kind of high for lunch the atmosphere is nice.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I have definately found my new favorite place for dinner and with its large bar for hanging out on the weekends.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I came to have dinner with two of my girlfriends on saturday and had an awsome time.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>In fact, our waiter mis-pronounced many of the items on the menu.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>A basic sandwich/burger menu is also served for pre-ice cream nourishment--just always remember to leave room for dessert!!</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The prices were outrageous, but we assumed the quality would be commensurate, so we ordered.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waiter became visibly irritated when we didn't want to order any drinks at the start of the evening.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I've been there for lunch many times and the service is always cheerful and efficient.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>As soon as he sat, a waiter came over not once but twice, the first time to suggest he move to the bar b/c our large booth didn't accomodate an extra person, the second time to insist he move.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When her boyfriend told the host that she would like to keep her seat as it was, he grabbed a chair and slammed it down very hard on the floor.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food here does a great service to the name (Cantonese that is.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The coffee by the name of the place is delicious and although the space is a bit tight, it's a great place to chat, chill or simply enjoy a great cup of joe.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>This is of course after waiting forever for menus and eventually having to ask for them.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Food was fresh yet dull, especially for the price ($12-14 appetizers; $22-$27 entrees).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Noodle soup quantities are huge - so don't go for the rest of the menu - the rest are at par with the rest of Chinatown.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>our dinner was marred by painfully slow service.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Don't they teach their staff how to pour water or wine?</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>He may be a little hard to take, but he knows how to run a kitchen and put together a creative menu.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="menu" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>After arriving for a pre-theatre reservation to find the kitchen closed due to a mechanical failure, the problem was fixed an hour later (after many drinks at the bar, none of which management offered as a concession to the wait) and we were served a very good dinner in time to make the play.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I only saw one waitress for the entire place, and small as it is, she only came to our table to take our order and take away plates, not once asking us if our food was to our liking.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I do not understand how this place can stay in business with its prices and quality of food.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>In the most beautiful ground floor brownstone setting.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When I go out for dinner which is quite often, I have never encountered such rudeness from a waiter or owner as I did at this smoke filled, tight spaced, cash only restaurant.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Also, overheard gent at the next table complaining to the manager about his food.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>If you mind waiting for your pie to be made (the wait canbe over an hour, especially for a square pie), I recommend calling ahead and placing your order for pick-up.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The was very little if any seasoning on the meat, and the outsiside has nice sear marks and a rich taste.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Service only so-so -- I saw a lot of wait staff standing around, and at the busiest moment, I watched waiter stroll through the dining room with two plates as if he had all the time in the world.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our plates were taken before we finished eating and our waitress sent the hostess to tell us we had to leave to make room for the next table and that we had to pay before we left.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The atmosphere could be considered amiable, if you possess roguish frat-boy nostalgia.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>5 hour meal (we ordered the tasting menu).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="menu" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Service was ok, took a while to order even drinks.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Nonetheless, we are looking forward to the next time for more pizza and the great service.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food was simple but exploded with flavor and the presentation was as if it was out of a cook book.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>In fact, you can't really say you've arrived in this town until you've scored a table here and made the pilgrimage to east Harlem for luscious pastas and chicken in vinegar and lemon.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Space is teeny tiny so waiting at the bar meant getting poked and bumped repeatedly, but hostesses were nice and wine selection was ample.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Don't bother looking at a menu- Shrimp cocktail, steak for 1,2,3, or more, creamed spinach and hash browns, and save room for the pecan pie and cheese cake, and don't forget the SCHLAG!!!!</text>
+		<aspectCategories>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Sure, the hostess can be rude, but when in the mood for authentic Mexican food, there is no better place in NYC, yet.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The Sushi was of the highest caliber, the cut as if a master samurai marks smith was behind the bar, and service, just what you would expect from a fine dining establishment, New York style.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Though weekend nights and Sunday brunch draw the largest crowds, neighborhood residents master this vegan menu of quinoa-lentil cakes, seitan piccata, and sweet-potato pumpkin pie by popping in daily.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waitress had zero knowledge about wine, and even knowledge about the dishes they were serving.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The Server took the order and disappeared for the entire rest of the night until we had to stop him b/c the bus boy knocked over our entire bottle of red wine soaking the white table cloth, the seats and our business suits.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The place was extremely busy, and with food like this why not.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>but the wait for seating can be exasperating.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I have dined here for over 20 years and I know the management will NOT compromise the cuisine for any haute trendy fare.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>To sum it up: Service varies from good to mediorce, depending on which waiter you get; generally it is just average Ok.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="staff" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The food did not come out on time or together and the waiter never came to explain why.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>In my opinion, the bar is not very well laid out, its narrow design makes it hard to meet a group for drinks.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>cool new cocktails, amazing apps, we were seated on Chefs Table for dinner ;) All ten of us were extremely comfortable, where the Chef came personally and we had special dishes that were pre-decided by my cousin for his party.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I saw a waitress yell at 2 customers for moving a table out a little bit in order to have more seating space.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We first got a table next to a VERY loud speaker and had no view, but the waiter was kind enough to move us when we asked.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>you might have made a reservation, but you will end up waiting for about an hour anyway, so hopefully you'll get a seat at the bar and won't have to stand around.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Those of you who are sick of the standard Italian fare will be blown away by the food at Arezzo.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>They have recently fired their staff and brought in new people who dont even know how to serve a beer, I might add you are on average paying $6.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>While being shown to our table by a hostess, we were welcomed by Lidia Bastianich herself and seated at a great table in the dining room -- not too secluded, but not noisy.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>but when tables began to clear up, it seemed polite to seat us comfortably in the dining area instead of having us twist our backs to talk, perched on bulky high chairs at the bar with no place to put our handbags (which the waiter happened to drop and expose contents later on).</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I will be back not only because the price was so unbelievable but the atmosphere was just plain COOL and the food was spectacular.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The tables are too close together and it's awkward to get up and down without disturbing the folks next to you, but the food is still the best around.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Appetizers and entrees were merely adequate, but you can't beat the pool room for atmosphere.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We had to ask FIFTEEN TIMES for water, we had no idea what we were eating (due to incomprehensible serving staff), waited 25 minutes after asking for our bill, and were charged a 20% corking fee ON WINE WE BOUGHT THERE.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We ordered whole wheast toast; the waiter didn't bring it until 15 minutes after we had received our brunch.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Without reservations on a Friday night at 8:30 I was promptly seated and given top-notch recommendations from both the host and my waiter.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The average price of a meal (app, entree, 1 drink and tip) is probably around $28.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i was at opia january 5, 2006 we had some drinks, dinner, i have to say that we had me and my friend great time, the staff was listening, the manager knew what he was doing and the food better than ever!!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We get treated very well and before we sit down to our steaks and fried green tomatoes that we love there - we have a few beers at the bar.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Maybe it was because we went during the restaurant week lunch special, but the service was not impressive at all and the food was okay, but not great.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Still the bill was close to $300(with 1 bottle of lower-priced wine).</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Been here a few times and food has always been good but service really suffers when it gets crowded.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I could not believe how much food they brought out to the table!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Not only did it take them 45 minutes to serve a salad, when we complained, the manager was abusive, told us to get out and literally started clearing the table while we were still eating.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Get plenty on food for the price.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Dining choices range from three-course, ingredient-themed tasting menus or a regular, seasonal a la carte menu.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="menu" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The waitress made a mental note about it and brought out a special dessert without being asked.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The drinks are very pricey and small, and the food is ok - but the portion size for the price is outrageous.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our server paid little attention to refilling our drinks, the runners brought the entrees out less than 1 minute after the appetizer, the server delivered another table's bill to us before we had even had entrees, and my partner's entree has a very noticable hair on his plate.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="price" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Go in, take a deep breath and expect great food, fairly priced with just about the worst service in North Jersey!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Upon calling to reserve a table outside for Brunch, the manager requested a cc nbr to secure the table for 6 (I was 8 months pregnant and there was a little baby).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>At one point, the waiter told us that he couldn't find our wine!</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The service on our visit was absolutely awful - a waiter and two helpers couldn't get our orders right and ignored several pleas for basics such as water and beverage refills and utensils to eat desserts with.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>This place is so very nearly achieving, but in the mean time, my advice - eat early elsewhere, then take your seat, order a bottle of wine and enjoy the performance and the ambience.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The mint love letters and spaghettini primi we ordered as entrees were perfection.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the space is very comfortable - they don't rush you - you don't have a server holding your bill in their hand asking if you'd like anything else.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="price" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Great for those hungover mornings when you need a decent pint and delicious, homemade food that will tide you over for the whole day.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I recently ate Brunch there and was dismayed and dissapointed by the service.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food sounded good enough on paper, with lots of clever names and interesting choices, but once we bit in, the dishes were all pretty bland.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The portions were kid sized and we spent about $100 a person in cluding wine (4 of us).</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>We asked for our check (to pay for our drinks and leave), and received the quickest service all evening.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>for our entree without a waiter in sight.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the busboys were fantastic -- very attentive when it came to replenishing chips, removing dishes, but I have to say the waitress service was not quite as good.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Wonderful service, not too long a wait for tables, price is right - in a word, go!</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="place" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Although the food was great, the service was so bad that I can't see myself ever returning.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Our waitress was pleasent and patient as we asked about all the various types of sushi.</text>
+		<aspectCategories>
+			<aspectCategory category="staff" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>When I went for sunday brunch, not only was the food bland and cold, they didn't even bother to clear the plates once they brought the bill.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+			<aspectCategory category="price" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The portions were so small that we still wanted to eat after dinner.</text>
+		<aspectCategories>
+			<aspectCategory category="miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>At the end of the meal the waitress asked if we wanted another drink, the after agreeing to have one she stated, actually there's a list of people waiting, can you go next door to the bar.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+			<aspectCategory category="service" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>First of all we ordered a wine from the menu listed as 2000 but the waiter brought the 2001 vintage and tried to pass it off as the 2000.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="menu" polarity="neutral"/>
+			<aspectCategory category="staff" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>Great place for dinner or late night for a few drinks and something to eat, the kitchen will be open till 3am.</text>
+		<aspectCategories>
+			<aspectCategory category="place" polarity="positive"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>I have never had a bad meal or service (on a couple of occasions I waited past my reservation time).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>The pot pie, pork chop and chicken were cleaned off the plates so well they didn't need washing.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+</sentences>

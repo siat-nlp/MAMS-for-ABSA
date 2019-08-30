@@ -1,0 +1,3835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sentences>
+	<sentence>
+		<text>After a couple of drinks, the apps--I like the lobster/mango summer roll and the cripsy squid--go down great.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="neutral" term="drinks" to="24"/>
+			<aspectTerm from="68" polarity="positive" term="roll" to="72"/>
+			<aspectTerm from="81" polarity="positive" term="cripsy squid" to="93"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The basil pepper mojito was a little daunting in concept, but I was refreshed at the flavor.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="basil pepper mojito" to="23"/>
+			<aspectTerm from="85" polarity="positive" term="flavor" to="91"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Had to constantly ask the waiter to top up water glasses, but generally service was ok.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="negative" term="waiter" to="32"/>
+			<aspectTerm from="43" polarity="neutral" term="water glasses" to="56"/>
+			<aspectTerm from="72" polarity="positive" term="service" to="79"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The portions were so small that we still wanted to eat after dinner.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="portions" to="12"/>
+			<aspectTerm from="61" polarity="neutral" term="dinner" to="67"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The staff is very kind and well trained, they're fast, they are always prompt to jump behind the bar and fix drinks, they know details of every item in the menu and make excelent recomendations.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="staff" to="9"/>
+			<aspectTerm from="97" polarity="neutral" term="bar" to="100"/>
+			<aspectTerm from="109" polarity="neutral" term="drinks" to="115"/>
+			<aspectTerm from="156" polarity="neutral" term="menu" to="160"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>On the other hand, the soup was so clear and you taste no salt.</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="positive" term="soup" to="27"/>
+			<aspectTerm from="58" polarity="neutral" term="salt" to="62"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We went out on the town with the idea that we were going to mingle with the in crowd, you know, go to a place where you pay an outrageous cover charge, have to wear all black to fit in, and pay $12 for a watered-down martini, and if you're lucky, have a good time.</text>
+		<aspectTerms>
+			<aspectTerm from="204" polarity="neutral" term="watered-down martini" to="224"/>
+			<aspectTerm from="259" polarity="positive" term="time" to="263"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waiter had a slight attitude and brought our wine aprroximately 10 minutes into our appetizer.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waiter" to="10"/>
+			<aspectTerm from="24" polarity="negative" term="attitude" to="32"/>
+			<aspectTerm from="49" polarity="neutral" term="wine" to="53"/>
+			<aspectTerm from="88" polarity="neutral" term="appetizer" to="97"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Appetizers and entrees were merely adequate, but you can't beat the pool room for atmosphere.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="neutral" term="Appetizers" to="10"/>
+			<aspectTerm from="82" polarity="positive" term="atmosphere" to="92"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>However for the price I paid to have dinner there, you would have thought I ate a horse.</text>
+		<aspectTerms>
+			<aspectTerm from="16" polarity="negative" term="price" to="21"/>
+			<aspectTerm from="37" polarity="neutral" term="dinner" to="43"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I called to confirm the reservations on the morning of the lunch and the hostess had the reservations set for 12:30pm which I quickly corrected.</text>
+		<aspectTerms>
+			<aspectTerm from="59" polarity="neutral" term="lunch" to="64"/>
+			<aspectTerm from="73" polarity="positive" term="hostess" to="80"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The small bar is always packed with people, and you have to constantly contend with waiters asking you to move as they navigate through the crowd to make it to their tables.</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="neutral" term="bar" to="13"/>
+			<aspectTerm from="84" polarity="negative" term="waiters" to="91"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Regardless of the amount of customers, the wait for food is insanely long.</text>
+		<aspectTerms>
+			<aspectTerm from="43" polarity="negative" term="wait" to="47"/>
+			<aspectTerm from="52" polarity="neutral" term="food" to="56"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>the decor isn't quite like Shun Lee but the service will definitely make up for any shortcoming.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="decor" to="9"/>
+			<aspectTerm from="44" polarity="positive" term="service" to="51"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>And there wasn't much room for the people at the bar to stand either, as the restaurant attempted to squeeze as many tables into the restaurant as they could, forcing those dining to have to shift in their chairs every time a waiter attempted to get by.</text>
+		<aspectTerms>
+			<aspectTerm from="49" polarity="neutral" term="bar" to="52"/>
+			<aspectTerm from="117" polarity="neutral" term="tables" to="123"/>
+			<aspectTerm from="173" polarity="neutral" term="dining" to="179"/>
+			<aspectTerm from="206" polarity="neutral" term="chairs" to="212"/>
+			<aspectTerm from="226" polarity="negative" term="waiter" to="232"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>In Short It's a bakery, takeout place and cafe all in one, and thanks to dishes prepared using the same ingredients stocked at famed gourmet food emporium, Zabar's, prices and quality are upscale.</text>
+		<aspectTerms>
+			<aspectTerm from="32" polarity="neutral" term="place" to="37"/>
+			<aspectTerm from="73" polarity="positive" term="dishes" to="79"/>
+			<aspectTerm from="104" polarity="neutral" term="ingredients" to="115"/>
+			<aspectTerm from="165" polarity="positive" term="prices" to="171"/>
+			<aspectTerm from="176" polarity="positive" term="quality" to="183"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>But it's the ambience that is the draw for me---sipping red wine and sitting under the red awning on a warm night.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="positive" term="ambience" to="21"/>
+			<aspectTerm from="56" polarity="neutral" term="red wine" to="64"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The service was fine, out appitizers took forever to come out, and then they dumped the rest of the food on us, without giving us a chance to enjoy our appitizers.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="service" to="11"/>
+			<aspectTerm from="100" polarity="neutral" term="food" to="104"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The servers, casual in their striped button-downs, anticipate and fulfill needs as if they were trained as mind readers.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="servers" to="11"/>
+			<aspectTerm from="29" polarity="neutral" term="striped button-downs" to="49"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food did come out quickly and was good, but not worth the prices or the wait.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="76" polarity="negative" term="wait" to="80"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The fries were absolutly inedible, and the coldslaw tasted like it was straight out of a bucket from Sam's, and the friend shrimp had too much curry.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="fries" to="9"/>
+			<aspectTerm from="123" polarity="neutral" term="shrimp" to="129"/>
+			<aspectTerm from="143" polarity="negative" term="curry" to="148"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>my one complaint is that when we were finished with our dinner, it took an abnormally long time for our waitress to get with the program and bring us our check.</text>
+		<aspectTerms>
+			<aspectTerm from="56" polarity="neutral" term="dinner" to="62"/>
+			<aspectTerm from="104" polarity="negative" term="waitress" to="112"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>But wait, it gets even better, the mussels were so fishy that I had the server try one since he had a hard time believing that this was true.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="wait" to="8"/>
+			<aspectTerm from="35" polarity="positive" term="mussels" to="42"/>
+			<aspectTerm from="72" polarity="negative" term="server" to="78"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>This place happens to be beatifully designed, the atmosphere is relaxed (as opposed to the noisy community dining atmosphere in so many busy chinese reataurants - which can also be OK) the food is authentic Chinese as opposed to what they think Americans would like, the staff is friendly and unhurried.</text>
+		<aspectTerms>
+			<aspectTerm from="97" polarity="negative" term="community dining atmosphere" to="124"/>
+			<aspectTerm from="189" polarity="positive" term="food" to="193"/>
+			<aspectTerm from="271" polarity="positive" term="staff" to="276"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Please have the SPINACH DIP, CAESAR SALAD, HAWAIIAN RIB-EYE and the BROWNIE for dessert.</text>
+		<aspectTerms>
+			<aspectTerm from="16" polarity="positive" term="SPINACH DIP" to="27"/>
+			<aspectTerm from="29" polarity="positive" term="CAESAR SALAD" to="41"/>
+			<aspectTerm from="80" polarity="neutral" term="dessert" to="87"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The atmosphere is warmly dim and inviting - if you make a reservation, ask for a corner both for extra coziness!</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="atmosphere" to="14"/>
+			<aspectTerm from="58" polarity="neutral" term="reservation" to="69"/>
+			<aspectTerm from="81" polarity="neutral" term="corner" to="87"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>but we waiting two hours to get it (we had reservations but it was late so we wanted to try to come in earlier).</text>
+		<aspectTerms>
+			<aspectTerm from="7" polarity="negative" term="waiting" to="14"/>
+			<aspectTerm from="43" polarity="neutral" term="reservations" to="55"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waitress at the bar was very nasty to me because she mistakenly took an order for thai ice tea from me when I asked for thai lemonade in a to-go cup.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waitress" to="12"/>
+			<aspectTerm from="20" polarity="neutral" term="bar" to="23"/>
+			<aspectTerm from="124" polarity="neutral" term="thai lemonade" to="137"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>In Short The bi-level dining room, which resembles a bamboo-thatched hut, is a brightly-lit, wide-open space with high ceilings and laminated depictions of Indian village life.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="neutral" term="bi-level dining room" to="33"/>
+			<aspectTerm from="103" polarity="positive" term="space" to="108"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Superfine is my preferred destination in the city when I'm looking for a casual, hip atmosphere, extraordinary food at decent prices and/or just a place to get a good drink, chat with the bartender and shoot some (free) pool.</text>
+		<aspectTerms>
+			<aspectTerm from="85" polarity="positive" term="atmosphere" to="95"/>
+			<aspectTerm from="111" polarity="positive" term="food" to="115"/>
+			<aspectTerm from="126" polarity="positive" term="prices" to="132"/>
+			<aspectTerm from="188" polarity="neutral" term="bartender" to="197"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>An otherwise fine meal was trashed when i realized that the dish i had ordered contained chicked, despite my asking for no chicken, no pork twice.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="positive" term="meal" to="22"/>
+			<aspectTerm from="60" polarity="neutral" term="dish" to="64"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Food The key element to a proper British chip is fat, and the flabby, pale yellow specimens here come close to the ideal.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="Food" to="8"/>
+			<aspectTerm from="86" polarity="positive" term="specimens" to="95"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The dinner menu looks like it has a more interesting selection of entrees, but if they are even the fraction of the quality of the items we ate for lunch, I whole-heartedly advise you to make it a point and dine at Creama--if not for the drinks, then definitely for the unique approach to mexican.</text>
+		<aspectTerms>
+			<aspectTerm from="66" polarity="positive" term="entrees" to="73"/>
+			<aspectTerm from="116" polarity="positive" term="quality" to="123"/>
+			<aspectTerm from="148" polarity="neutral" term="lunch" to="153"/>
+			<aspectTerm from="289" polarity="neutral" term="mexican" to="296"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We made a reservation for 5:30pm (20 people) and people were still arriving at 5:45 (over half the group was there) when the manager came over and literally yelled at us for not being on time saying it was a busy time for him, when in fact there were several empty tables throughout the restaurant.</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="neutral" term="reservation" to="21"/>
+			<aspectTerm from="125" polarity="negative" term="manager" to="132"/>
+			<aspectTerm from="265" polarity="neutral" term="tables" to="271"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>When I went for sunday brunch, not only was the food bland and cold, they didn't even bother to clear the plates once they brought the bill.</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="neutral" term="brunch" to="29"/>
+			<aspectTerm from="48" polarity="negative" term="food" to="52"/>
+			<aspectTerm from="106" polarity="neutral" term="plates" to="112"/>
+			<aspectTerm from="135" polarity="neutral" term="bill" to="139"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Wasa Waffle was different but when we spoke to the manager he inmediatly changed if for another dish (He suggested the Chocolate decadence French Toast.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="Wasa" to="8"/>
+			<aspectTerm from="55" polarity="positive" term="manager" to="62"/>
+			<aspectTerm from="100" polarity="neutral" term="dish" to="104"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The pizza is thet always fresh and just made they hav an outdoor seating area that is partially covered they also have a full service restaurant on the premises they make everything on premises.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="pizza" to="9"/>
+			<aspectTerm from="57" polarity="neutral" term="outdoor seating area" to="77"/>
+			<aspectTerm from="126" polarity="positive" term="service" to="133"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Consistently satisfying versions of Thai staples like pad Thai and curry dishes arrive in generous portions.</text>
+		<aspectTerms>
+			<aspectTerm from="36" polarity="positive" term="Thai staples" to="48"/>
+			<aspectTerm from="54" polarity="neutral" term="pad Thai and curry dishes" to="79"/>
+			<aspectTerm from="99" polarity="positive" term="portions" to="107"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I naively thought dinner was served during the show, but the waiters don't come by once the shows start, so order your wine 30 mins before the show start time.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="neutral" term="dinner" to="24"/>
+			<aspectTerm from="29" polarity="neutral" term="served" to="35"/>
+			<aspectTerm from="61" polarity="negative" term="waiters" to="68"/>
+			<aspectTerm from="119" polarity="neutral" term="wine" to="123"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The menu is limited so I opted for the jalapeno potato soup and a romaine salad.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="menu" to="8"/>
+			<aspectTerm from="66" polarity="neutral" term="romaine salad" to="79"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Other guests enjoyed pizza, santa fe chopped salad and fish and chips.</text>
+		<aspectTerms>
+			<aspectTerm from="21" polarity="positive" term="pizza" to="26"/>
+			<aspectTerm from="28" polarity="positive" term="santa fe chopped salad" to="50"/>
+			<aspectTerm from="55" polarity="neutral" term="fish and chips" to="69"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The items available during dimsum time were plentiful - the turnip cake was excellent.</text>
+		<aspectTerms>
+			<aspectTerm from="27" polarity="neutral" term="dimsum" to="33"/>
+			<aspectTerm from="60" polarity="positive" term="turnip cake" to="71"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I would recommend going at off-times (before 7 perhaps) to avoid the crowds as it gets packed and there isn't much room by the bar.</text>
+		<aspectTerms>
+			<aspectTerm from="69" polarity="negative" term="crowds" to="75"/>
+			<aspectTerm from="127" polarity="neutral" term="bar" to="130"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I mean no disrespect to the owner, just constructive criticism - improve the decor and dine-in service, but DON'T change the portions or the recipes.</text>
+		<aspectTerms>
+			<aspectTerm from="77" polarity="negative" term="decor" to="82"/>
+			<aspectTerm from="125" polarity="neutral" term="portions" to="133"/>
+			<aspectTerm from="141" polarity="neutral" term="recipes" to="148"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>At no point during our dinner were we left alone to simply enjoy our food.</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="neutral" term="dinner" to="29"/>
+			<aspectTerm from="69" polarity="positive" term="food" to="73"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Waitress didn't know anything about the menu, but other than that I would recommend.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Waitress" to="8"/>
+			<aspectTerm from="40" polarity="neutral" term="menu" to="44"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>With tacky kitsch as the decor's dominant motif and the obligatory grousing waiters hustling out brick-sized steaks and icy vodka to gussied-up regulars and tourists, an evening at Sammy's is both dinner and street theater.</text>
+		<aspectTerms>
+			<aspectTerm from="25" polarity="negative" term="decor" to="30"/>
+			<aspectTerm from="56" polarity="negative" term="obligatory" to="66"/>
+			<aspectTerm from="76" polarity="negative" term="waiters" to="83"/>
+			<aspectTerm from="124" polarity="neutral" term="vodka" to="129"/>
+			<aspectTerm from="197" polarity="neutral" term="dinner" to="203"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Handsome baritone Nordic waiters patrol the room, proffering fresh-squeezed juices and $4-a-person pots of French press coffee.</text>
+		<aspectTerms>
+			<aspectTerm from="25" polarity="positive" term="waiters" to="32"/>
+			<aspectTerm from="114" polarity="neutral" term="press coffee" to="126"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Although it was quite good, the small portions at this table of 4, including appetizers, did not constitute adequate sustenance.</text>
+		<aspectTerms>
+			<aspectTerm from="38" polarity="negative" term="portions" to="46"/>
+			<aspectTerm from="77" polarity="neutral" term="appetizers" to="87"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The green hair table and seating at the front window was tacky and gimmicky, but figured it's the food that counts.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="green hair table" to="20"/>
+			<aspectTerm from="25" polarity="negative" term="seating" to="32"/>
+			<aspectTerm from="40" polarity="neutral" term="front window" to="52"/>
+			<aspectTerm from="98" polarity="positive" term="food" to="102"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food was average: the almond crusted halibut was bland, while the sashimi appetizer was excellent.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="negative" term="almond crusted halibut" to="48"/>
+			<aspectTerm from="70" polarity="positive" term="sashimi appetizer" to="87"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>First, the hostess gave us a nasty look when asked if we could eat at the bar, and then just swished her hand to indicate we could seat ourselves.</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="negative" term="hostess" to="18"/>
+			<aspectTerm from="74" polarity="neutral" term="bar" to="77"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Despite him not being my designated server, he basically took over for our inexperienced waiter the rest of the dinner.</text>
+		<aspectTerms>
+			<aspectTerm from="36" polarity="positive" term="server" to="42"/>
+			<aspectTerm from="89" polarity="negative" term="waiter" to="95"/>
+			<aspectTerm from="112" polarity="neutral" term="dinner" to="118"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>After requesting to be seated at an empty table, the waitress (who was so terribly burdened when we asked to move from the bar to the table to have dinner) asked us to get up from our seats and wait for a smaller table because a party of 3 just walked in.</text>
+		<aspectTerms>
+			<aspectTerm from="53" polarity="negative" term="waitress" to="61"/>
+			<aspectTerm from="123" polarity="neutral" term="bar" to="126"/>
+			<aspectTerm from="148" polarity="neutral" term="dinner" to="154"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Sat at the bar and orderd a few appetizers, the humus and cheese plates along with some calamari - all very tasty.</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="neutral" term="bar" to="14"/>
+			<aspectTerm from="48" polarity="positive" term="humus and cheese plates" to="71"/>
+			<aspectTerm from="88" polarity="positive" term="calamari" to="96"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>the hostess is rude as can be, the waiters can't stop to check in, the busboys are flinging stuff on your table, and that's true even when the restaurant is half empty!</text>
+		<aspectTerms>
+			<aspectTerm from="71" polarity="negative" term="busboys" to="78"/>
+			<aspectTerm from="106" polarity="neutral" term="table" to="111"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Call it a bar with weak but tasty sangria and leave it at that.</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="neutral" term="bar" to="13"/>
+			<aspectTerm from="34" polarity="positive" term="sangria" to="41"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For $65, you will get a 5-6 course tasting menu encompassing a variety of raw fish, cooked fish, pastas, dessert, etc.</text>
+		<aspectTerms>
+			<aspectTerm from="43" polarity="positive" term="menu" to="47"/>
+			<aspectTerm from="74" polarity="positive" term="raw fish" to="82"/>
+			<aspectTerm from="97" polarity="neutral" term="pastas" to="103"/>
+			<aspectTerm from="105" polarity="neutral" term="dessert" to="112"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Never on the menu or in my inquiry to the waitress was the word garlic mentioned.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="neutral" term="menu" to="17"/>
+			<aspectTerm from="42" polarity="negative" term="waitress" to="50"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>i was at opia january 5, 2006 we had some drinks, dinner, i have to say that we had me and my friend great time, the staff was listening, the manager knew what he was doing and the food better than ever!!</text>
+		<aspectTerms>
+			<aspectTerm from="42" polarity="neutral" term="drinks" to="48"/>
+			<aspectTerm from="50" polarity="neutral" term="dinner" to="56"/>
+			<aspectTerm from="117" polarity="positive" term="staff" to="122"/>
+			<aspectTerm from="142" polarity="positive" term="manager" to="149"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It wasn't until we spoke with management that we were able to finish our meal and get out of the restaurant, but already one of our party had to leave early and the rest of us were late for our afternoon engagements.</text>
+		<aspectTerms>
+			<aspectTerm from="30" polarity="negative" term="management" to="40"/>
+			<aspectTerm from="73" polarity="neutral" term="meal" to="77"/>
+			<aspectTerm from="204" polarity="neutral" term="engagements" to="215"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It is a must for lunch,dinner or anytime you have a big appetite and don't want to spend big bucks in the big Apple!</text>
+		<aspectTerms>
+			<aspectTerm from="17" polarity="neutral" term="lunch" to="22"/>
+			<aspectTerm from="23" polarity="neutral" term="dinner" to="29"/>
+			<aspectTerm from="110" polarity="positive" term="Apple" to="115"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>What it lacks in decor it more than makes up in the cuisine.</text>
+		<aspectTerms>
+			<aspectTerm from="17" polarity="negative" term="decor" to="22"/>
+			<aspectTerm from="52" polarity="positive" term="cuisine" to="59"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Went for lunch the bartenders were great, also they had a DJ playing music during the day, there was a Huge screen tv playing music videos and a bunch of other tvs with all the sports you could look at.</text>
+		<aspectTerms>
+			<aspectTerm from="9" polarity="neutral" term="lunch" to="14"/>
+			<aspectTerm from="19" polarity="positive" term="bartenders" to="29"/>
+			<aspectTerm from="58" polarity="neutral" term="DJ" to="60"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waitress encouraged to come for dinner and brunch, and I followed her recommandation.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="waitress" to="12"/>
+			<aspectTerm from="36" polarity="neutral" term="dinner" to="42"/>
+			<aspectTerm from="47" polarity="neutral" term="brunch" to="53"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our waiter was very prompt and friendly, but the worst part of the experience was actually after the meal when I was leaving.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="waiter" to="10"/>
+			<aspectTerm from="101" polarity="neutral" term="meal" to="105"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Me and my wife we go there at least once a month, the food they give you is amazing we only get one order of pasta and main course it is enough for both to share,we get full and satisfied, our favorite dish penne with pesto.</text>
+		<aspectTerms>
+			<aspectTerm from="54" polarity="positive" term="food" to="58"/>
+			<aspectTerm from="109" polarity="neutral" term="pasta" to="114"/>
+			<aspectTerm from="119" polarity="neutral" term="main course" to="130"/>
+			<aspectTerm from="202" polarity="positive" term="dish" to="206"/>
+			<aspectTerm from="218" polarity="positive" term="pesto" to="223"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The service has always been outstanding and even when we didn't have a reservation they worked something out, where I agreed to keep our meal to just eating.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="service" to="11"/>
+			<aspectTerm from="71" polarity="neutral" term="reservation" to="82"/>
+			<aspectTerm from="137" polarity="neutral" term="meal" to="141"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>the hostess wasn't sure until 3 hours later 10:28: Here we go Eggplant parmigiana fried grease an heavy duty Pollo dish covered with 1/4 of a pound of mozzarella.</text>
+		<aspectTerms>
+			<aspectTerm from="115" polarity="negative" term="dish" to="119"/>
+			<aspectTerm from="151" polarity="neutral" term="mozzarella" to="161"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Once we ordered, it took at least 30 minutes to get our food, with our server no where in site.</text>
+		<aspectTerms>
+			<aspectTerm from="56" polarity="neutral" term="food" to="60"/>
+			<aspectTerm from="71" polarity="negative" term="server" to="77"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Thanks to waiter I learned so much about wine too.</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="positive" term="waiter" to="16"/>
+			<aspectTerm from="41" polarity="neutral" term="wine" to="45"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Down right comfortable, pleasant, enormous portions, have lunch and bring home a doggie bag wth your dinner.</text>
+		<aspectTerms>
+			<aspectTerm from="43" polarity="positive" term="portions" to="51"/>
+			<aspectTerm from="58" polarity="neutral" term="lunch" to="63"/>
+			<aspectTerm from="101" polarity="neutral" term="dinner" to="107"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>A couple of hints: 1) avoid going during peak lunch and dinner hours - everything is made fresh so it takes time, 2) definitely try their Concrete desert - my favorite is chocolate with bananas and hot fudge mixed in.</text>
+		<aspectTerms>
+			<aspectTerm from="46" polarity="neutral" term="lunch" to="51"/>
+			<aspectTerm from="56" polarity="neutral" term="dinner" to="62"/>
+			<aspectTerm from="171" polarity="positive" term="chocolate" to="180"/>
+			<aspectTerm from="186" polarity="positive" term="bananas" to="193"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We felt the waiter and captain rushed us through our meal.</text>
+		<aspectTerms>
+			<aspectTerm from="12" polarity="negative" term="waiter" to="18"/>
+			<aspectTerm from="23" polarity="negative" term="captain" to="30"/>
+			<aspectTerm from="53" polarity="neutral" term="meal" to="57"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The desserts are just as good as all the coffee shops around town but they charge more than anyone.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="desserts" to="12"/>
+			<aspectTerm from="41" polarity="neutral" term="coffee" to="47"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>You might be lucky enough to hear your waiter say, May I take zee order from you, Pig Dog, while you're there.</text>
+		<aspectTerms>
+			<aspectTerm from="39" polarity="negative" term="waiter" to="45"/>
+			<aspectTerm from="82" polarity="neutral" term="Pig Dog" to="89"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Recommended to those who want to try a different setting for a diner.</text>
+		<aspectTerms>
+			<aspectTerm from="49" polarity="positive" term="setting" to="56"/>
+			<aspectTerm from="63" polarity="neutral" term="diner" to="68"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Definitely one of the Slope's best bets for Chinese food -- or for vegetarians (there's an extensive veggy menu, as well as many meat dishes).</text>
+		<aspectTerms>
+			<aspectTerm from="44" polarity="positive" term="Chinese food" to="56"/>
+			<aspectTerm from="107" polarity="positive" term="menu" to="111"/>
+			<aspectTerm from="129" polarity="neutral" term="meat dishes" to="140"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>In the main dining room, finding your waiter is Hell and aside from when they take your order and bring the bill, you'll rarely see them.</text>
+		<aspectTerms>
+			<aspectTerm from="7" polarity="neutral" term="main dining room" to="23"/>
+			<aspectTerm from="38" polarity="negative" term="waiter" to="44"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We had a five-course dinner and none of the dishes really impressed except maybe the signature oysters and pearls.</text>
+		<aspectTerms>
+			<aspectTerm from="9" polarity="neutral" term="five-course dinner" to="27"/>
+			<aspectTerm from="44" polarity="negative" term="dishes" to="50"/>
+			<aspectTerm from="85" polarity="positive" term="signature oysters" to="102"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food is pretty good, but the staff would rather be anywhere than waiting tables at Maison.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="33" polarity="positive" term="staff" to="38"/>
+			<aspectTerm from="69" polarity="neutral" term="waiting tables" to="83"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I went there for lunch on a quiet weekday afternoon and everything my friend and I ordered was immaculately presented and absolutely delicious-- I had moules frites and she had the salmon burger.</text>
+		<aspectTerms>
+			<aspectTerm from="17" polarity="neutral" term="lunch" to="22"/>
+			<aspectTerm from="34" polarity="positive" term="weekday" to="41"/>
+			<aspectTerm from="151" polarity="positive" term="moules frites" to="164"/>
+			<aspectTerm from="181" polarity="positive" term="salmon burger" to="194"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>the food is not nearly good enough to wait an hour before seeing your server, or wait another hour for the wrong entrees, or for the manager to make up for it by charging for everthing but giving us on the house shot glasses of watery margaritas.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="food" to="8"/>
+			<aspectTerm from="70" polarity="negative" term="server" to="76"/>
+			<aspectTerm from="113" polarity="negative" term="entrees" to="120"/>
+			<aspectTerm from="133" polarity="positive" term="manager" to="140"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>And although I've noticed that the prices have gone up a little since they opened, it's still a great menu.</text>
+		<aspectTerms>
+			<aspectTerm from="35" polarity="negative" term="prices" to="41"/>
+			<aspectTerm from="102" polarity="positive" term="menu" to="106"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For dinner I recommend Carne Tampiquea (steak) And for brunch the Huaraches with meat and a couple eggs on top, a typical mexican hangover plate!</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="dinner" to="10"/>
+			<aspectTerm from="55" polarity="neutral" term="brunch" to="61"/>
+			<aspectTerm from="99" polarity="positive" term="eggs" to="103"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Even with reservation, it might take up to one hour to get a table and the staff might not even say a word about it.</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="neutral" term="reservation" to="21"/>
+			<aspectTerm from="75" polarity="negative" term="staff" to="80"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food is above average, though the portions a tad small, even for tapas; but they more than make up for it with their wonderfull mojitos.</text>
+		<aspectTerms>
+			<aspectTerm from="38" polarity="negative" term="portions" to="46"/>
+			<aspectTerm from="132" polarity="positive" term="mojitos" to="139"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>as for the people whom posted about the salad, I never had it, as for the person that had no sides with the steak, they must have made a mistake, everytime I go its come's with awesome potatoes.</text>
+		<aspectTerms>
+			<aspectTerm from="40" polarity="neutral" term="salad" to="45"/>
+			<aspectTerm from="108" polarity="neutral" term="steak" to="113"/>
+			<aspectTerm from="185" polarity="positive" term="potatoes" to="193"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The service was adequate though we did need to keep asking for water and the drinks from the bar took a long time- plus the restaraurant was not crowded.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="service" to="11"/>
+			<aspectTerm from="77" polarity="neutral" term="drinks" to="83"/>
+			<aspectTerm from="93" polarity="neutral" term="bar" to="96"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The arrogant maitre'd was annoyed when i asked about sitting down those tables are for other reservations low and behold those tables were still open as my wife and I finished dinner.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="negative" term="maitre" to="19"/>
+			<aspectTerm from="93" polarity="neutral" term="reservations" to="105"/>
+			<aspectTerm from="176" polarity="neutral" term="dinner" to="182"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I have been here a few times and never had a boring meal!Food always fresh, service very civilized.</text>
+		<aspectTerms>
+			<aspectTerm from="52" polarity="negative" term="meal" to="56"/>
+			<aspectTerm from="57" polarity="positive" term="Food" to="61"/>
+			<aspectTerm from="76" polarity="positive" term="service" to="83"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Over a period of time some restaurants tend to loose the quality of the taste of their food, but not Ray's.</text>
+		<aspectTerms>
+			<aspectTerm from="57" polarity="negative" term="quality" to="64"/>
+			<aspectTerm from="72" polarity="negative" term="taste" to="77"/>
+			<aspectTerm from="87" polarity="neutral" term="food" to="91"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The manager very politely told the drunk man that he could leave and then gave everyone on the resturaunt a free glass of port for having to witness it.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="manager" to="11"/>
+			<aspectTerm from="113" polarity="neutral" term="glass" to="118"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Save the $$ and go to to curry hill (just 2-3 blocks away) or spend the $$ at a midtown indian eatery  (Also: I commented to hostess prior to seating that there were a lot of tables empty when choosing my seat, and she snapped back that they had a lot of reservations coming in at one time.</text>
+		<aspectTerms>
+			<aspectTerm from="125" polarity="neutral" term="hostess" to="132"/>
+			<aspectTerm from="142" polarity="neutral" term="seating" to="149"/>
+			<aspectTerm from="175" polarity="negative" term="tables" to="181"/>
+			<aspectTerm from="255" polarity="neutral" term="reservations" to="267"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>An unfriendly hostess greeted us and placed us in the main room of the restaurant where the tables were so close together that it was impossible for guests and waiter to move without bumping you.</text>
+		<aspectTerms>
+			<aspectTerm from="14" polarity="negative" term="hostess" to="21"/>
+			<aspectTerm from="92" polarity="negative" term="tables" to="98"/>
+			<aspectTerm from="160" polarity="neutral" term="waiter" to="166"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>All in all the food was above average and I would return to see how they operate with four or less dinners.</text>
+		<aspectTerms>
+			<aspectTerm from="15" polarity="positive" term="food" to="19"/>
+			<aspectTerm from="99" polarity="neutral" term="dinners" to="106"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It took forever to seat us even though the restaurant was almost completely empty, then we had to ask to be waited on, it took another 15 minutes to get our drinks, and then another 30 minutes to get our salad and then even more time to get our pizza and then our bill.</text>
+		<aspectTerms>
+			<aspectTerm from="19" polarity="negative" term="seat" to="23"/>
+			<aspectTerm from="157" polarity="neutral" term="drinks" to="163"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Scene At this sleek spot on a relatively sparse stretch of Spring Street, regulars belly up to a small bar and greet owner Giorgio DeLuca, of Dean and DeLuca fame, with warm hugs.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="Scene" to="9"/>
+			<aspectTerm from="107" polarity="negative" term="bar" to="110"/>
+			<aspectTerm from="121" polarity="positive" term="owner" to="126"/>
+			<aspectTerm from="178" polarity="positive" term="hugs" to="182"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food seems so-so, although the nachos were really yummy (fake hot cheese w/ big cups of beans, chili guac on the side).</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="food" to="8"/>
+			<aspectTerm from="92" polarity="positive" term="beans" to="97"/>
+			<aspectTerm from="99" polarity="positive" term="chili guac" to="109"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>both appetizer and main were poorly made by some random cooks the picked up from who knows where.</text>
+		<aspectTerms>
+			<aspectTerm from="19" polarity="negative" term="main" to="23"/>
+			<aspectTerm from="56" polarity="neutral" term="cooks" to="61"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>But a server coming up to the table chewing gum while she went through the specials is not my idea of professional.</text>
+		<aspectTerms>
+			<aspectTerm from="6" polarity="negative" term="server" to="12"/>
+			<aspectTerm from="75" polarity="neutral" term="specials" to="83"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Called to complain and the response was well, we didn't charge you for the falafel sandwich we shorted you.</text>
+		<aspectTerms>
+			<aspectTerm from="27" polarity="positive" term="response" to="35"/>
+			<aspectTerm from="75" polarity="neutral" term="falafel sandwich" to="91"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We had to wait by the door, and the host failed to acknowledge our existence for a whole 15 minutes!</text>
+		<aspectTerms>
+			<aspectTerm from="22" polarity="neutral" term="door" to="26"/>
+			<aspectTerm from="36" polarity="negative" term="host" to="40"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>They kept us waiting for more than an hour WITH a reservation and WITHOUT an apology.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="negative" term="waiting" to="20"/>
+			<aspectTerm from="50" polarity="neutral" term="reservation" to="61"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food is incredibly tasting and, if you want an advice: Grill calamari, Rigatoni a la vodka and, for dessert, Tartufata.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="59" polarity="neutral" term="Grill calamari" to="73"/>
+			<aspectTerm from="75" polarity="neutral" term="Rigatoni" to="83"/>
+			<aspectTerm from="104" polarity="neutral" term="dessert" to="111"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The 'people watching' and table location (on boardwalk) made up for the rude service.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="neutral" term="table location" to="40"/>
+			<aspectTerm from="77" polarity="negative" term="service" to="84"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I liked the hummos platter, the brie sandwich, and about 20 other things on the menu (if they still have the chocolate cake you need to get it).</text>
+		<aspectTerms>
+			<aspectTerm from="12" polarity="positive" term="hummos platter" to="26"/>
+			<aspectTerm from="32" polarity="positive" term="brie sandwich" to="45"/>
+			<aspectTerm from="80" polarity="neutral" term="menu" to="84"/>
+			<aspectTerm from="109" polarity="positive" term="chocolate cake" to="123"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Only drawback is the sound level - quite a loud space downstairs - and that might be accounted for with their trendy bar and right off Times Square.</text>
+		<aspectTerms>
+			<aspectTerm from="48" polarity="negative" term="space downstairs" to="64"/>
+			<aspectTerm from="117" polarity="positive" term="bar" to="120"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We are a huge fan of their brunch - specifically the blt with a fried egg and avocado and their asparagus omelette with truffle oil.</text>
+		<aspectTerms>
+			<aspectTerm from="27" polarity="positive" term="brunch" to="33"/>
+			<aspectTerm from="64" polarity="neutral" term="fried egg and avocado" to="85"/>
+			<aspectTerm from="96" polarity="neutral" term="asparagus omelette with truffle oil" to="131"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For dinner we decided to share on the Veal Cordon Blue (wow) and the Artic char, a nice dish.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="dinner" to="10"/>
+			<aspectTerm from="38" polarity="positive" term="Veal Cordon Blue" to="54"/>
+			<aspectTerm from="88" polarity="positive" term="dish" to="92"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Sashimi was ok (maki rolls tasted better).</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="neutral" term="Sashimi" to="7"/>
+			<aspectTerm from="21" polarity="positive" term="rolls" to="26"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Worth the trip over the bridge, worth the search for parking, worth the wait for a table at dinner time and worthy of a ten rating.</text>
+		<aspectTerms>
+			<aspectTerm from="83" polarity="positive" term="table" to="88"/>
+			<aspectTerm from="92" polarity="neutral" term="dinner" to="98"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We were told by the hostess to make sure we were on time for our reservation, which we were, but then they kept us waiting for 15 minutes when we got there.</text>
+		<aspectTerms>
+			<aspectTerm from="20" polarity="negative" term="hostess" to="27"/>
+			<aspectTerm from="65" polarity="neutral" term="reservation" to="76"/>
+			<aspectTerm from="115" polarity="negative" term="waiting" to="122"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>While the deocr in the dining room is less than inviting, I recommend eating at the bar where there is full menu service.</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="negative" term="dining room" to="34"/>
+			<aspectTerm from="84" polarity="neutral" term="bar" to="87"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Relaxed neighborhooders treat the spot like a second home, calling the staff by name and lingering despite the smallish bar and hurried courses.</text>
+		<aspectTerms>
+			<aspectTerm from="34" polarity="positive" term="spot" to="38"/>
+			<aspectTerm from="71" polarity="positive" term="staff" to="76"/>
+			<aspectTerm from="120" polarity="neutral" term="bar" to="123"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Scene Schnack feels a lot like a roller-rink concession stand circa 1982, from the deep vinyl booths and beat-up chairs right down to the loud music and plastic menu boards.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="Scene" to="9"/>
+			<aspectTerm from="165" polarity="negative" term="menu boards" to="176"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The restaurant is attractively decorated but totally lacks an atmosphere partly because of the extra bright lighting.</text>
+		<aspectTerms>
+			<aspectTerm from="62" polarity="negative" term="atmosphere" to="72"/>
+			<aspectTerm from="108" polarity="positive" term="lighting" to="116"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Same quality for 1/3 the price and a realistic atmosphere.</text>
+		<aspectTerms>
+			<aspectTerm from="25" polarity="neutral" term="price" to="30"/>
+			<aspectTerm from="47" polarity="positive" term="atmosphere" to="57"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Also available is eggplant in garlic sauce, the Zen vegi-burger, with sunflower seeds, kale and brown rice, and curry-rice-noodle soup.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="positive" term="eggplant in garlic sauce" to="42"/>
+			<aspectTerm from="48" polarity="neutral" term="Zen vegi-burger" to="63"/>
+			<aspectTerm from="130" polarity="positive" term="soup" to="134"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Then, the waitress gave my wife coffee with regular milk in it even though my wife specifically requested Soy Milk.</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="negative" term="waitress" to="18"/>
+			<aspectTerm from="106" polarity="neutral" term="Soy Milk" to="114"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I will definitely try dinner, but they do need to fix the kitchen shifts so that people get served in a reasonable time.</text>
+		<aspectTerms>
+			<aspectTerm from="22" polarity="positive" term="dinner" to="28"/>
+			<aspectTerm from="58" polarity="neutral" term="kitchen" to="65"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>One of the managers offered us a seat at the bar to wait for a table, there we had the most amazing empanadas and red sangria.</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="neutral" term="managers" to="19"/>
+			<aspectTerm from="33" polarity="neutral" term="seat" to="37"/>
+			<aspectTerm from="45" polarity="neutral" term="bar" to="48"/>
+			<aspectTerm from="52" polarity="neutral" term="wait" to="56"/>
+			<aspectTerm from="100" polarity="positive" term="empanadas" to="109"/>
+			<aspectTerm from="118" polarity="positive" term="sangria" to="125"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>You fry it in your batter and roll it up in spices, big chunky blue cheese makes them taste so nice's.</text>
+		<aspectTerms>
+			<aspectTerm from="19" polarity="neutral" term="batter" to="25"/>
+			<aspectTerm from="44" polarity="neutral" term="spices" to="50"/>
+			<aspectTerm from="56" polarity="positive" term="chunky blue cheese" to="74"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We are laidback diners and as we've both waited tables, we tend to be forgiving of irregular service.</text>
+		<aspectTerms>
+			<aspectTerm from="16" polarity="neutral" term="diners" to="22"/>
+			<aspectTerm from="48" polarity="neutral" term="tables" to="54"/>
+			<aspectTerm from="93" polarity="negative" term="service" to="100"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I have no idea what the food is like here, I only come for the frozen margaritas which I find to be the best I've found in the city and the grilled corn.</text>
+		<aspectTerms>
+			<aspectTerm from="24" polarity="neutral" term="food" to="28"/>
+			<aspectTerm from="63" polarity="positive" term="frozen margaritas" to="80"/>
+			<aspectTerm from="140" polarity="neutral" term="grilled corn" to="152"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>it took forever for the waiter to take my order as he was too busy chatting at the bar.</text>
+		<aspectTerms>
+			<aspectTerm from="24" polarity="negative" term="waiter" to="30"/>
+			<aspectTerm from="83" polarity="neutral" term="bar" to="86"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waitress apologized for the long wait and said they would give us some free drinks or desert since they forgot about our orders but we never received anything and by the time we got the bill we just wanted to pay and leave.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waitress" to="12"/>
+			<aspectTerm from="80" polarity="positive" term="drinks" to="86"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The price is well worth the quality and quantity of food.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="price" to="9"/>
+			<aspectTerm from="28" polarity="positive" term="quality" to="35"/>
+			<aspectTerm from="40" polarity="positive" term="quantity" to="48"/>
+			<aspectTerm from="52" polarity="neutral" term="food" to="56"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>My friend and I walked in to an over crowded bar and were warned of a 45 minute wait.</text>
+		<aspectTerms>
+			<aspectTerm from="45" polarity="negative" term="bar" to="48"/>
+			<aspectTerm from="80" polarity="neutral" term="wait" to="84"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Count on fresh, fairly priced cuts of fish that represent a good value, even if portions are a bit on the small side.</text>
+		<aspectTerms>
+			<aspectTerm from="38" polarity="positive" term="fish" to="42"/>
+			<aspectTerm from="80" polarity="negative" term="portions" to="88"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Even with our reservation, they had us waiting at the bar for over an hour.</text>
+		<aspectTerms>
+			<aspectTerm from="14" polarity="neutral" term="reservation" to="25"/>
+			<aspectTerm from="39" polarity="negative" term="waiting" to="46"/>
+			<aspectTerm from="54" polarity="neutral" term="bar" to="57"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Most diners stick to hot (shredded chicken breast in garlic and walnut sauce) and cold (briny tapenade, made with Greek olives, capers and anchovies) meze, served in handsome vintage dishes.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="neutral" term="shredded chicken breast in garlic" to="59"/>
+			<aspectTerm from="114" polarity="neutral" term="Greek olives" to="126"/>
+			<aspectTerm from="183" polarity="positive" term="dishes" to="189"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Seated just after 2; I commend them 'cause they were the only decent brunch spot that would take our reservation, and they did their best to seat us promptly.</text>
+		<aspectTerms>
+			<aspectTerm from="69" polarity="positive" term="brunch spot" to="80"/>
+			<aspectTerm from="101" polarity="neutral" term="reservation" to="112"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>After the grilled calamari, we got onion soup that had no soup, a dish of beans that had no flavor, the kitchen didn't make one of the three pasta dishes ordered, and the pork chop and other main dishes were not very good.</text>
+		<aspectTerms>
+			<aspectTerm from="35" polarity="negative" term="onion soup" to="45"/>
+			<aspectTerm from="74" polarity="neutral" term="beans" to="79"/>
+			<aspectTerm from="92" polarity="negative" term="flavor" to="98"/>
+			<aspectTerm from="171" polarity="negative" term="pork chop" to="180"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The servers were prompt and attentive, but the food arrived lukewarm (maybe it was served so quickly because it was pre-cooked and had been sitting out for a while) and was not all that flavorful.</text>
+		<aspectTerms>
+			<aspectTerm from="47" polarity="negative" term="food" to="51"/>
+			<aspectTerm from="83" polarity="positive" term="served" to="89"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Like the other Bromberg Brothers establishments, expect the customer is always wrong attitude from the staff along with overpriced wines you never heard of, no bar, tiny waiting area and lousy desserts.</text>
+		<aspectTerms>
+			<aspectTerm from="60" polarity="neutral" term="customer" to="68"/>
+			<aspectTerm from="103" polarity="negative" term="staff" to="108"/>
+			<aspectTerm from="131" polarity="negative" term="wines" to="136"/>
+			<aspectTerm from="160" polarity="negative" term="bar" to="163"/>
+			<aspectTerm from="170" polarity="negative" term="waiting area" to="182"/>
+			<aspectTerm from="193" polarity="negative" term="desserts" to="201"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>My friend also knew the chef, so we had some other courses not on the menu, but even knowing the chef didn't get us the service I would expect at this type of restaurant.</text>
+		<aspectTerms>
+			<aspectTerm from="70" polarity="neutral" term="menu" to="74"/>
+			<aspectTerm from="120" polarity="negative" term="service" to="127"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>First, the seating people gave me huge attitude and claimed I had not reserved a table at the grotto - and I quote my reservation You are all set for the grotta this saturday.</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="negative" term="seating people" to="25"/>
+			<aspectTerm from="118" polarity="neutral" term="reservation" to="129"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Getting into the steak frites takes some sawing, but once cut, the meat is flavorful, if in need of salt.</text>
+		<aspectTerms>
+			<aspectTerm from="17" polarity="neutral" term="steak frites" to="29"/>
+			<aspectTerm from="67" polarity="positive" term="meat" to="71"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I liked the place and the people, but we really went to have dinner no appetizers as the whole dinner.</text>
+		<aspectTerms>
+			<aspectTerm from="12" polarity="positive" term="place" to="17"/>
+			<aspectTerm from="26" polarity="positive" term="people" to="32"/>
+			<aspectTerm from="71" polarity="negative" term="appetizers" to="81"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>and if that wasn't enough the owner threw in a free beer each for me and my friend.</text>
+		<aspectTerms>
+			<aspectTerm from="30" polarity="negative" term="owner" to="35"/>
+			<aspectTerm from="52" polarity="neutral" term="beer" to="56"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Other small dishes, such as the fragrant sesame oil-scented raw spicy tuna, are excellent with a beer-sized mug of cold oolong tea.</text>
+		<aspectTerms>
+			<aspectTerm from="12" polarity="negative" term="dishes" to="18"/>
+			<aspectTerm from="32" polarity="positive" term="fragrant sesame oil-scented raw spicy tuna" to="74"/>
+			<aspectTerm from="127" polarity="positive" term="tea" to="130"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>True, the ambiance is something out of Goodfellas, but it the food and waiters are out of this world!</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="negative" term="ambiance" to="18"/>
+			<aspectTerm from="62" polarity="positive" term="food" to="66"/>
+			<aspectTerm from="71" polarity="positive" term="waiters" to="78"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I was impressed with every dish and was tempted to go back for dinner that night!</text>
+		<aspectTerms>
+			<aspectTerm from="27" polarity="positive" term="dish" to="31"/>
+			<aspectTerm from="63" polarity="neutral" term="dinner" to="69"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>junk food place that could do well with a good cleaning.</text>
+		<aspectTerms>
+			<aspectTerm from="5" polarity="neutral" term="food place" to="15"/>
+			<aspectTerm from="47" polarity="positive" term="cleaning" to="55"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>There's even a nice menu of savory items served during late lunch and dinner hours.</text>
+		<aspectTerms>
+			<aspectTerm from="28" polarity="positive" term="savory items served" to="47"/>
+			<aspectTerm from="70" polarity="neutral" term="dinner hours" to="82"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The numbness in your lower legs from sitting on old wood chairs is more than compensated by the wonderful food.</text>
+		<aspectTerms>
+			<aspectTerm from="52" polarity="negative" term="wood chairs" to="63"/>
+			<aspectTerm from="106" polarity="positive" term="food" to="110"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>They kept the chef, margarita machines, and practically the identical menu from Miracle Grill (the restaurant that formerly had the space); how is it that everything here is so much worse?</text>
+		<aspectTerms>
+			<aspectTerm from="70" polarity="positive" term="menu" to="74"/>
+			<aspectTerm from="88" polarity="neutral" term="Grill" to="93"/>
+			<aspectTerm from="132" polarity="neutral" term="space" to="137"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I like to drink a variety of teas, but I've had some here that are really weird that I would avoid next time.</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="positive" term="drink" to="15"/>
+			<aspectTerm from="104" polarity="neutral" term="time" to="108"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The organic free range chicken was a 6, the lamb chop was excellent, and we had to send the halibut back 2x with no result- ended up having to order anther dish (cod) in which the fish was good but the clams were too tough to eat and the sausage wasn't even finished cooking (thus could not be consumed).</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="organic free range chicken" to="30"/>
+			<aspectTerm from="44" polarity="positive" term="lamb chop" to="53"/>
+			<aspectTerm from="156" polarity="neutral" term="dish" to="160"/>
+			<aspectTerm from="180" polarity="positive" term="fish" to="184"/>
+			<aspectTerm from="238" polarity="negative" term="sausage" to="245"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The drinks are very pricey and small, and the food is ok - but the portion size for the price is outrageous.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="drinks" to="10"/>
+			<aspectTerm from="67" polarity="positive" term="portion size" to="79"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>My date and I were both taken back by the lack of the friendly attitude from the owner of the restaurant.</text>
+		<aspectTerms>
+			<aspectTerm from="63" polarity="positive" term="attitude" to="71"/>
+			<aspectTerm from="81" polarity="neutral" term="owner" to="86"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>First, the waiter brought us to a table where people were still finishing their coffee from their meal - he told them the restaurant was busy and they needed to finish now and to pay their bill inside.</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="negative" term="waiter" to="17"/>
+			<aspectTerm from="98" polarity="neutral" term="meal" to="102"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our lovely waiter sent us off with scones for breakfast the following AM!</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="positive" term="waiter" to="17"/>
+			<aspectTerm from="46" polarity="neutral" term="breakfast" to="55"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For entree I would recommand the rabbit curry - the meat was cooked very finely and the curry sauce, though a bit too sweet, went well with rice.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="entree" to="10"/>
+			<aspectTerm from="33" polarity="positive" term="rabbit curry" to="45"/>
+			<aspectTerm from="52" polarity="positive" term="meat" to="56"/>
+			<aspectTerm from="88" polarity="positive" term="curry sauce" to="99"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>After a crazy day @ work, with no reservation, we were so lucky to score a seat at the bar on an incredibly busy evening.</text>
+		<aspectTerms>
+			<aspectTerm from="34" polarity="neutral" term="reservation" to="45"/>
+			<aspectTerm from="75" polarity="neutral" term="seat" to="79"/>
+			<aspectTerm from="87" polarity="neutral" term="bar" to="90"/>
+			<aspectTerm from="113" polarity="negative" term="evening" to="120"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Besides, vegetarian or not, there are always ways to liven up food without compromising the healthy aspect.</text>
+		<aspectTerms>
+			<aspectTerm from="62" polarity="negative" term="food" to="66"/>
+			<aspectTerm from="100" polarity="positive" term="aspect" to="106"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I read about this place in the Post, but never stepped foot in it I ordered a red velvet cake to be delivered to lOwer Manhattan; It got there, and the broads at the office raved about it!</text>
+		<aspectTerms>
+			<aspectTerm from="78" polarity="neutral" term="red velvet cake" to="93"/>
+			<aspectTerm from="152" polarity="positive" term="broads" to="158"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>If you are undecided about which sandwich to choose, go for the Indecision, which is a trio of smaller sandwiches on the menu.</text>
+		<aspectTerms>
+			<aspectTerm from="64" polarity="neutral" term="Indecision" to="74"/>
+			<aspectTerm from="103" polarity="negative" term="sandwiches" to="113"/>
+			<aspectTerm from="121" polarity="neutral" term="menu" to="125"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>If you had good service there, try to get your waiter's name and request him/her by name the next time.</text>
+		<aspectTerms>
+			<aspectTerm from="16" polarity="positive" term="service" to="23"/>
+			<aspectTerm from="47" polarity="neutral" term="waiter" to="53"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I prefer to sit at the bar as I don't have to listen to loud, boring conversations from the next table who always seem to be friends of the owner.</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="neutral" term="bar" to="26"/>
+			<aspectTerm from="92" polarity="neutral" term="next table" to="102"/>
+			<aspectTerm from="140" polarity="negative" term="owner" to="145"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waiter spent a long time telling us about the menu (and more about his own life history in the process.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waiter" to="10"/>
+			<aspectTerm from="50" polarity="neutral" term="menu" to="54"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We had a nice bottle of wine, dinner, and dessert for under $200.</text>
+		<aspectTerms>
+			<aspectTerm from="14" polarity="positive" term="bottle of wine" to="28"/>
+			<aspectTerm from="30" polarity="neutral" term="dinner" to="36"/>
+			<aspectTerm from="42" polarity="positive" term="dessert" to="49"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Everything on the menu is satisfyingly savory, from a simple pot of mussels in a choice of sauces (beer-and-bacon, creamy mushroom, or white-wine-and-garlic broth), to beef stewed with beer and prunes, to a juicy croque-monsieur, and beyond.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="neutral" term="menu" to="22"/>
+			<aspectTerm from="61" polarity="positive" term="pot" to="64"/>
+			<aspectTerm from="68" polarity="positive" term="mussels" to="75"/>
+			<aspectTerm from="135" polarity="neutral" term="white-wine-and-garlic broth" to="162"/>
+			<aspectTerm from="168" polarity="neutral" term="beef stewed" to="179"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The wait staff didn't bother to refill my water until I had finish mine and was almost done with my husband's glass too.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="wait staff" to="14"/>
+			<aspectTerm from="42" polarity="neutral" term="water" to="47"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Yes, this place is good, a cut above some of the other local diner food and a nice, friendly atmosphere.</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="positive" term="place" to="15"/>
+			<aspectTerm from="61" polarity="neutral" term="diner food" to="71"/>
+			<aspectTerm from="93" polarity="positive" term="atmosphere" to="103"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>since we're informed its service isslow we had dinner in midtownwent for dessertb-day thing.</text>
+		<aspectTerms>
+			<aspectTerm from="25" polarity="negative" term="service" to="32"/>
+			<aspectTerm from="47" polarity="neutral" term="dinner" to="53"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It's one of our take-out staples because of the good food, fast delivery time and the cheap price (for under $25 we have a dinner for 2 and with left-overs).</text>
+		<aspectTerms>
+			<aspectTerm from="16" polarity="neutral" term="take-out staples" to="32"/>
+			<aspectTerm from="53" polarity="positive" term="food" to="57"/>
+			<aspectTerm from="64" polarity="positive" term="delivery" to="72"/>
+			<aspectTerm from="92" polarity="positive" term="price" to="97"/>
+			<aspectTerm from="123" polarity="neutral" term="dinner" to="129"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Too late to get a reservation so we went upstairs where initially the crowded scene threw me for a loop.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="neutral" term="reservation" to="29"/>
+			<aspectTerm from="78" polarity="negative" term="scene" to="83"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Scene  Chief among the neighborhood's bustling cafes is Kolonaki, with its inviting upstairs space, replete with rich, dark wood tables and windowsills.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="Scene" to="9"/>
+			<aspectTerm from="88" polarity="positive" term="upstairs space" to="102"/>
+			<aspectTerm from="128" polarity="positive" term="wood tables" to="139"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The texture of their flat noodles is something that has to be experienced to understand.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="texture" to="11"/>
+			<aspectTerm from="21" polarity="neutral" term="flat noodles" to="33"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Although, we were seated within an hour, the bartender and waiter were very nice and the food was good (although my pork was too salty) we would not return.</text>
+		<aspectTerms>
+			<aspectTerm from="89" polarity="positive" term="food" to="93"/>
+			<aspectTerm from="116" polarity="negative" term="pork" to="120"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The only blemish was our waitress, who left us with empty drinks for quite a long time.</text>
+		<aspectTerms>
+			<aspectTerm from="25" polarity="negative" term="waitress" to="33"/>
+			<aspectTerm from="58" polarity="neutral" term="drinks" to="64"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We (naturally) asked for a discount when the bill came, and our waitress disappeared for a moment and offered us.</text>
+		<aspectTerms>
+			<aspectTerm from="27" polarity="neutral" term="discount" to="35"/>
+			<aspectTerm from="64" polarity="negative" term="waitress" to="72"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>When the bill finally arrived, the head waiter sternly told us that this time is okay, but next time you have to order more than 2 appitizers and a main course!</text>
+		<aspectTerms>
+			<aspectTerm from="40" polarity="negative" term="waiter" to="46"/>
+			<aspectTerm from="131" polarity="neutral" term="appitizers" to="141"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>the menu looked great, but the food was the biggest disappointment i've had yet!</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="menu" to="8"/>
+			<aspectTerm from="31" polarity="negative" term="food" to="35"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We waited in standing at the entrance for 5 mins to get seats due to just slow service, another 10mins to get menu, and then another 10mins to get water bread.</text>
+		<aspectTerms>
+			<aspectTerm from="79" polarity="negative" term="service" to="86"/>
+			<aspectTerm from="110" polarity="neutral" term="menu" to="114"/>
+			<aspectTerm from="153" polarity="neutral" term="bread" to="158"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The wait staff is very attentive, and you can smoke at the bar while enjoying the view of the river.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="wait staff" to="14"/>
+			<aspectTerm from="59" polarity="neutral" term="bar" to="62"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I complained to the manager who offered to move us and pay for our appetizers.</text>
+		<aspectTerms>
+			<aspectTerm from="20" polarity="negative" term="manager" to="27"/>
+			<aspectTerm from="67" polarity="neutral" term="appetizers" to="77"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We were not seated by a hostess (and as a result didn't receive menus or water for a good while) and were rushed out as the restaurant closed an hour after we arrived.</text>
+		<aspectTerms>
+			<aspectTerm from="24" polarity="negative" term="hostess" to="31"/>
+			<aspectTerm from="64" polarity="neutral" term="menus" to="69"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>When I requested a change to the non-smoking section, the waiter replied that there were no open tables.</text>
+		<aspectTerms>
+			<aspectTerm from="58" polarity="neutral" term="waiter" to="64"/>
+			<aspectTerm from="97" polarity="negative" term="tables" to="103"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>When we showed up, the guy at the door said it would be 15 minutes and that we could wait by the bar.</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="negative" term="guy" to="26"/>
+			<aspectTerm from="97" polarity="neutral" term="bar" to="100"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Caffeine addicts will have to find their fix elsewhere as coffee is curiously not on the menu, but the Singha beer and decent wine list more than compensates.</text>
+		<aspectTerms>
+			<aspectTerm from="89" polarity="neutral" term="menu" to="93"/>
+			<aspectTerm from="126" polarity="positive" term="wine list" to="135"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Good value for money--especially the $7 lunch special for 2 courses.</text>
+		<aspectTerms>
+			<aspectTerm from="5" polarity="positive" term="value for money" to="20"/>
+			<aspectTerm from="60" polarity="neutral" term="courses" to="67"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Dinner is a tad dodgy, especially if you don't eat meat or fish.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Dinner" to="6"/>
+			<aspectTerm from="51" polarity="neutral" term="meat" to="55"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food is decent but small portions so expect to order a lot.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="29" polarity="negative" term="portions" to="37"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Comfort is decidedly not a factor in the Arturo's experience--once patrons escape the bottleneck near the bar, they're shoehorned into a miniscule dining room.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Comfort" to="7"/>
+			<aspectTerm from="106" polarity="neutral" term="bar" to="109"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Then the huffy hostess when we asked to be seated at a table not directly on-top of another couple.</text>
+		<aspectTerms>
+			<aspectTerm from="15" polarity="negative" term="hostess" to="22"/>
+			<aspectTerm from="55" polarity="neutral" term="table" to="60"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Remember the 80's when you have to wait 1-2 hours for a table even though you have a reservation + the wait staff treated you like the idiot that you are for paying $2-300 per head for this treatment, then you should definately come to experience this jewel!!</text>
+		<aspectTerms>
+			<aspectTerm from="56" polarity="neutral" term="table" to="61"/>
+			<aspectTerm from="85" polarity="neutral" term="reservation" to="96"/>
+			<aspectTerm from="103" polarity="negative" term="wait staff" to="113"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>On the other hand, the food was good but not awesome as had been described, furthermore I found the portions fairly small for this type of restaurant.</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="positive" term="food" to="27"/>
+			<aspectTerm from="100" polarity="negative" term="portions" to="108"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The owner Don greeted us at the door with a warm smile, and seated us for dinner upstairs.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="owner" to="9"/>
+			<aspectTerm from="74" polarity="neutral" term="dinner" to="80"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our waitress couldn't tell us what was in the seafood special, forgot to put in our oyster order so it came at the same time as the main meals, wasn't able to provide a confident recommendation from the menu, and had to be flagged several times for drinks.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waitress" to="12"/>
+			<aspectTerm from="132" polarity="neutral" term="main meals" to="142"/>
+			<aspectTerm from="203" polarity="neutral" term="menu" to="207"/>
+			<aspectTerm from="249" polarity="neutral" term="drinks" to="255"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Went for an early V-Day dinner, only to be highly disappointed by the service.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="neutral" term="V-Day dinner" to="30"/>
+			<aspectTerm from="70" polarity="negative" term="service" to="77"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Staff would not change a meal to accomadidate food allegeries.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Staff" to="5"/>
+			<aspectTerm from="25" polarity="neutral" term="meal" to="29"/>
+			<aspectTerm from="46" polarity="neutral" term="food" to="50"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We waited FOREVER on Valentine's Day for our table because their hostess had lost our reservation BUT the food was worthy of the long wait anyway.</text>
+		<aspectTerms>
+			<aspectTerm from="45" polarity="neutral" term="table" to="50"/>
+			<aspectTerm from="65" polarity="negative" term="hostess" to="72"/>
+			<aspectTerm from="106" polarity="positive" term="food" to="110"/>
+			<aspectTerm from="134" polarity="negative" term="wait anyway" to="145"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Flavorful Indian favorites like vegetable pakora, lamb tikka masala and tandoori chicken, as well as unexpected offerings such as Alaska king crab legs and fried coconut shrimp, are served at extremely reasonable prices.</text>
+		<aspectTerms>
+			<aspectTerm from="32" polarity="neutral" term="vegetable pakora" to="48"/>
+			<aspectTerm from="50" polarity="neutral" term="lamb tikka masala and tandoori chicken" to="88"/>
+			<aspectTerm from="130" polarity="neutral" term="Alaska king crab legs and fried coconut shrimp" to="176"/>
+			<aspectTerm from="213" polarity="positive" term="prices" to="219"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food is on the good side but not so terrific to compensate the bad service, crammed tiny-tables, dirty glasses, overly loud music, which is good for the bar part of the establishment but not when you want to seat down, eat and have a normal conversation at normal volume.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="71" polarity="negative" term="service" to="78"/>
+			<aspectTerm from="107" polarity="negative" term="glasses" to="114"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I was disappointed to hear another waiter (or it could've been the owner) was reading completely different specials (most of which I would've wanted to try if I didn't overhear at the end of our meal) to the table next to us.</text>
+		<aspectTerms>
+			<aspectTerm from="35" polarity="negative" term="waiter" to="41"/>
+			<aspectTerm from="67" polarity="negative" term="owner" to="72"/>
+			<aspectTerm from="107" polarity="neutral" term="specials" to="115"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>our waiter from last year, a young man named Chris, actually remembered us (we did speak at length that evening about everything from food and wine to how to create good marrige).</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="waiter" to="10"/>
+			<aspectTerm from="143" polarity="neutral" term="wine" to="147"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>As a chef I really appreciated the well executed dishes that were full of crisp and vibrant flavor contrast acting in harmony and perfect balance.</text>
+		<aspectTerms>
+			<aspectTerm from="5" polarity="neutral" term="chef" to="9"/>
+			<aspectTerm from="49" polarity="positive" term="dishes" to="55"/>
+			<aspectTerm from="92" polarity="positive" term="flavor" to="98"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The service can be a bit spotty since they are sometimes busy taking phone orders to attend to the restaurant patrons so make sure you have a lot of time to spare when you go there for dinner.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="service" to="11"/>
+			<aspectTerm from="185" polarity="neutral" term="dinner" to="191"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>atmosphere is not that relaxing, if you go - you MUST bring a cell phone and go down the street for a drink.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="atmosphere" to="10"/>
+			<aspectTerm from="102" polarity="neutral" term="drink" to="107"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>This pizza shop is one o fhte best places ever and is a hiden gem in a small community.</text>
+		<aspectTerms>
+			<aspectTerm from="5" polarity="positive" term="pizza" to="10"/>
+			<aspectTerm from="77" polarity="negative" term="community" to="86"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>After being seated outside by the host, a waitress came over and yelled at us for taking a table that belonged to people waiting at the bar.</text>
+		<aspectTerms>
+			<aspectTerm from="34" polarity="neutral" term="host" to="38"/>
+			<aspectTerm from="42" polarity="negative" term="waitress" to="50"/>
+			<aspectTerm from="121" polarity="neutral" term="waiting" to="128"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>after booking reservations at Danube, only to show up and not have any tables available, the Danube somelier graciously called over to Bouley and got us a table for immediate seating.</text>
+		<aspectTerms>
+			<aspectTerm from="14" polarity="neutral" term="reservations" to="26"/>
+			<aspectTerm from="71" polarity="negative" term="tables" to="77"/>
+			<aspectTerm from="175" polarity="positive" term="seating" to="182"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Highlights include a breaded veal chop with tomatoes and arugula, a pea-and-mushroom risotto topped with slivers of fried zucchini and doused with truffle oil, and a top-shelf roasted chicken with rapini and sausage.</text>
+		<aspectTerms>
+			<aspectTerm from="21" polarity="positive" term="breaded veal chop with tomatoes and arugula" to="64"/>
+			<aspectTerm from="68" polarity="positive" term="pea-and-mushroom risotto topped" to="99"/>
+			<aspectTerm from="105" polarity="neutral" term="slivers of fried zucchini" to="130"/>
+			<aspectTerm from="135" polarity="positive" term="doused with truffle oil" to="158"/>
+			<aspectTerm from="166" polarity="positive" term="top-shelf roasted chicken" to="191"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I was a bit taken aback by the paper napkins and the flyer like menu, but was excited nevertheless to taste the food praised by at least 6 people on this site.</text>
+		<aspectTerms>
+			<aspectTerm from="53" polarity="neutral" term="flyer" to="58"/>
+			<aspectTerm from="64" polarity="neutral" term="menu" to="68"/>
+			<aspectTerm from="112" polarity="positive" term="food" to="116"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The tables weren't bussed and they forgot to make my chai tea, which wasn't all that delicious, not was my friend's coffee.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="tables" to="10"/>
+			<aspectTerm from="116" polarity="positive" term="coffee" to="122"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Service is FAST so if you are dining, order entrees after receiving apps.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="positive" term="Service" to="7"/>
+			<aspectTerm from="44" polarity="neutral" term="entrees" to="51"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Upon finishing our meal that same waitress that ignored us, suddenly appeared at our table asking if we needed our check, we were finishing our coffee and drinks, yet she was blatantly trying to get us out so that the table could be turned over.</text>
+		<aspectTerms>
+			<aspectTerm from="34" polarity="negative" term="waitress" to="42"/>
+			<aspectTerm from="155" polarity="neutral" term="drinks" to="161"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The kinds of places like this where strangers are likely to share a table during the lunch rush always have better food than the Table-cloth places.</text>
+		<aspectTerms>
+			<aspectTerm from="85" polarity="neutral" term="lunch" to="90"/>
+			<aspectTerm from="115" polarity="positive" term="food" to="119"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>You'll find classic PS450 dishes like the sliced steak atop creamed spinich on crunchy little toasts and new items like brie poppers on drizzled strawberry-infused sauce.</text>
+		<aspectTerms>
+			<aspectTerm from="20" polarity="positive" term="PS450 dishes" to="32"/>
+			<aspectTerm from="42" polarity="positive" term="sliced steak" to="54"/>
+			<aspectTerm from="109" polarity="positive" term="items" to="114"/>
+			<aspectTerm from="125" polarity="neutral" term="poppers" to="132"/>
+			<aspectTerm from="164" polarity="neutral" term="sauce" to="169"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our waiter recommended thZt we share a few of the appetizers; they were great.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="waiter" to="10"/>
+			<aspectTerm from="50" polarity="positive" term="appetizers" to="60"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I went here for a fun dinner with friends - they do not take reservations during the week, but we were seated pretty swiftly for a Friday night, having had a delicious glass of Spanish wine at the bar.</text>
+		<aspectTerms>
+			<aspectTerm from="22" polarity="negative" term="dinner" to="28"/>
+			<aspectTerm from="168" polarity="positive" term="glass of Spanish wine" to="189"/>
+			<aspectTerm from="197" polarity="neutral" term="bar" to="200"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We were just settling the bill, when a waiter I can only assume held a controlling interest in the restaurant (else he would've been fired long ago) came to the table and demanded to know why someone (our friend who'd briefly left to use the restroom) had left her beer half-full.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="neutral" term="bill" to="30"/>
+			<aspectTerm from="39" polarity="negative" term="waiter" to="45"/>
+			<aspectTerm from="270" polarity="neutral" term="half-full" to="279"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>My only gripe was that the food was all in big bins, but that's expected for a lunch rush hour type crowd.</text>
+		<aspectTerms>
+			<aspectTerm from="79" polarity="neutral" term="lunch" to="84"/>
+			<aspectTerm from="100" polarity="negative" term="crowd" to="105"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I've been here twice for brunch, and I found the ambience and food to be much better than the overly-hyped Kitchenette next door.</text>
+		<aspectTerms>
+			<aspectTerm from="25" polarity="neutral" term="brunch" to="31"/>
+			<aspectTerm from="49" polarity="positive" term="ambience" to="57"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food is just ok, not really memorable and not what you expect for the price but I guess the atmosphere is what you pay for.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="74" polarity="negative" term="price" to="79"/>
+			<aspectTerm from="96" polarity="positive" term="atmosphere" to="106"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>What I liked the most is that the staff listened attentively to what I asked for and my meal was prepared EXACTLY the way I asked, what a treat.</text>
+		<aspectTerms>
+			<aspectTerm from="34" polarity="positive" term="staff" to="39"/>
+			<aspectTerm from="88" polarity="neutral" term="meal" to="92"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The drinks were water down and the only BIG thing was the bill.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="drinks" to="10"/>
+			<aspectTerm from="58" polarity="negative" term="bill" to="62"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Its not cheap, it was $10 for a burger and fries, and when i was there, the waiter had dropped a FULL glass of coke on a patron, soaking her through!</text>
+		<aspectTerms>
+			<aspectTerm from="32" polarity="neutral" term="burger" to="38"/>
+			<aspectTerm from="76" polarity="negative" term="waiter" to="82"/>
+			<aspectTerm from="102" polarity="neutral" term="glass" to="107"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our bill total was only $30 and our waiter threw in a side of linguini (no charge) since the entrees don't come with pasta sides.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="bill" to="8"/>
+			<aspectTerm from="36" polarity="negative" term="waiter" to="42"/>
+			<aspectTerm from="93" polarity="negative" term="entrees" to="100"/>
+			<aspectTerm from="117" polarity="neutral" term="pasta sides" to="128"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The reservation was easy enough to make the night before for a Saturday night (after the pre-theater crowd).</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="reservation" to="15"/>
+			<aspectTerm from="101" polarity="neutral" term="crowd" to="106"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>There was 3 baby carrots, a spoon full of spinach, sun dried tomatoes, 3 pieces of eggplant, and 10 string beans, oh and onions.</text>
+		<aspectTerms>
+			<aspectTerm from="12" polarity="neutral" term="baby carrots" to="24"/>
+			<aspectTerm from="42" polarity="positive" term="spinach" to="49"/>
+			<aspectTerm from="51" polarity="neutral" term="sun dried tomatoes" to="69"/>
+			<aspectTerm from="83" polarity="neutral" term="eggplant" to="91"/>
+			<aspectTerm from="121" polarity="neutral" term="onions" to="127"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Last time I was there the chef made me a special dessert called yokan (red bean cake with strawberry sauce on top) and it was delicious.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="positive" term="chef" to="30"/>
+			<aspectTerm from="49" polarity="positive" term="dessert" to="56"/>
+			<aspectTerm from="64" polarity="neutral" term="yokan" to="69"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>If you don't mind eating great thai food in a schnazzy ambience with a hop hip lunch crowd, then come on over to SPICE.</text>
+		<aspectTerms>
+			<aspectTerm from="31" polarity="positive" term="thai food" to="40"/>
+			<aspectTerm from="55" polarity="neutral" term="ambience" to="63"/>
+			<aspectTerm from="79" polarity="neutral" term="lunch crowd" to="90"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Decor is sort of homey, with mismatched tables and plates.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="positive" term="Decor" to="5"/>
+			<aspectTerm from="40" polarity="negative" term="tables" to="46"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Generally one would have to point out to the waitstaff the beer was flat and ask for another.</text>
+		<aspectTerms>
+			<aspectTerm from="45" polarity="negative" term="waitstaff" to="54"/>
+			<aspectTerm from="59" polarity="neutral" term="beer" to="63"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Though we had to wait about 45 minutes from our dinner reservation time, we were given breadsticks, olives and parmasean to nibble on while we waited, albeit in the very cramped bar area.</text>
+		<aspectTerms>
+			<aspectTerm from="100" polarity="neutral" term="olives" to="106"/>
+			<aspectTerm from="178" polarity="negative" term="bar area" to="186"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Finally, one of the waitstaff noticed and brought out a dirty bus pan which he put on the table next to me and started bussing the entire dining room.</text>
+		<aspectTerms>
+			<aspectTerm from="20" polarity="negative" term="waitstaff" to="29"/>
+			<aspectTerm from="138" polarity="neutral" term="dining room" to="149"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We sat soaked in red wine for 20 minutes eating our meals w/o the wine b/c the server saw us like that but did nothing until we stopped him.</text>
+		<aspectTerms>
+			<aspectTerm from="17" polarity="neutral" term="red wine" to="25"/>
+			<aspectTerm from="52" polarity="neutral" term="meals" to="57"/>
+			<aspectTerm from="79" polarity="negative" term="server" to="85"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our party of 4 ordered only appetizers (about 6 of them) and made a wonderful meal out of it.</text>
+		<aspectTerms>
+			<aspectTerm from="28" polarity="neutral" term="appetizers" to="38"/>
+			<aspectTerm from="78" polarity="positive" term="meal" to="82"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>In addition guys, please hire some waitstaff who know both English and your menu.</text>
+		<aspectTerms>
+			<aspectTerm from="35" polarity="negative" term="waitstaff" to="44"/>
+			<aspectTerm from="76" polarity="neutral" term="menu" to="80"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The menu features such sumptuous fare as lobster ravioli in a light aurora sauce, double-cut grilled veal chop with an aromatic salsa verde, and octopus salad with steamed potato, red onions, and caper berries.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="menu" to="8"/>
+			<aspectTerm from="33" polarity="positive" term="fare" to="37"/>
+			<aspectTerm from="41" polarity="neutral" term="lobster ravioli in a light aurora sauce" to="80"/>
+			<aspectTerm from="82" polarity="neutral" term="double-cut grilled veal chop" to="110"/>
+			<aspectTerm from="119" polarity="neutral" term="aromatic salsa verde" to="139"/>
+			<aspectTerm from="145" polarity="neutral" term="octopus salad with steamed potato, red onions" to="190"/>
+			<aspectTerm from="202" polarity="neutral" term="berries" to="209"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The soft shell chicken taco is alright, but nobody would go here for serious Mexican food.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="soft shell chicken taco" to="27"/>
+			<aspectTerm from="77" polarity="negative" term="Mexican food" to="89"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I asked the waitress what this was for and her responses were as follows: We put in an extra shot, We had to use ice in the drink, and It must have been the computer.</text>
+		<aspectTerms>
+			<aspectTerm from="12" polarity="negative" term="waitress" to="20"/>
+			<aspectTerm from="124" polarity="neutral" term="drink" to="129"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The bill came out to quite a lot though, considering there were 14 of us some of us ordered way too many drinks.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="bill" to="8"/>
+			<aspectTerm from="105" polarity="positive" term="drinks" to="111"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Although the waitress had clearly our reservation on her book, she told us somebody arrived one minute ago and being first to arrive, he could have our table.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="negative" term="waitress" to="21"/>
+			<aspectTerm from="38" polarity="neutral" term="reservation" to="49"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Food Guiltily scarf down fried catfish sandwiches and collard greens, or try Clinton's favorite: short ribs and fried chicken.</text>
+		<aspectTerms>
+			<aspectTerm from="29" polarity="positive" term="fried catfish sandwiches" to="53"/>
+			<aspectTerm from="58" polarity="neutral" term="collard greens" to="72"/>
+			<aspectTerm from="107" polarity="positive" term="ribs" to="111"/>
+			<aspectTerm from="116" polarity="positive" term="fried chicken" to="129"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waitress took about 20 minutes to bring us the menu.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waitress" to="12"/>
+			<aspectTerm from="51" polarity="neutral" term="menu" to="55"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>After arriving an hour early for our reservation for 2 and politely asking for a table near the band we were promptly seated at one of the worst tables in the place.</text>
+		<aspectTerms>
+			<aspectTerm from="37" polarity="neutral" term="reservation" to="48"/>
+			<aspectTerm from="96" polarity="neutral" term="band" to="100"/>
+			<aspectTerm from="145" polarity="negative" term="tables" to="151"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>we ordered simple salads, which were outrageous in price and def.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="neutral" term="salads" to="24"/>
+			<aspectTerm from="51" polarity="positive" term="price" to="56"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It's just nice to have a place like this - a sit down place with a lot of food choices, not centered on a particular ethnicity and a bar - as an option here.</text>
+		<aspectTerms>
+			<aspectTerm from="74" polarity="positive" term="food choices" to="86"/>
+			<aspectTerm from="133" polarity="neutral" term="bar" to="136"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>There were a few moments during the tasting menu that left me speechless, such as the shrimp in cream sauce, toro with foam, foie gras custard, eggplant in miso and a foie gras kobe beef filet fried ball that brought me to tears.</text>
+		<aspectTerms>
+			<aspectTerm from="44" polarity="positive" term="menu" to="48"/>
+			<aspectTerm from="86" polarity="positive" term="shrimp in cream sauce" to="107"/>
+			<aspectTerm from="144" polarity="positive" term="eggplant in miso" to="160"/>
+			<aspectTerm from="17" polarity="neutral" term="moments" to="24"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>All dishes have been adjusted for American preferences (bland, missing spices and wok heat).</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="dishes" to="10"/>
+			<aspectTerm from="71" polarity="negative" term="spices" to="77"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>There is almost always an hour wait at dinner time, but this may be the best Japanese Sushi restaurant in NYC.</text>
+		<aspectTerms>
+			<aspectTerm from="39" polarity="neutral" term="dinner" to="45"/>
+			<aspectTerm from="77" polarity="positive" term="Japanese" to="85"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We waited forever for our bill but did have a nice conversation with one of our waitstaff during our meal.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="negative" term="bill" to="30"/>
+			<aspectTerm from="80" polarity="positive" term="waitstaff" to="89"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Watch out for the sesame noodles, though, and leave the complimentary pickled cabbage and carrots sitting on the table for the next customer to enjoy.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="negative" term="sesame noodles" to="32"/>
+			<aspectTerm from="113" polarity="neutral" term="table" to="118"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>My fiance and I always get mussels a la Cono and linguine a la Cono, but all the other pasta dishes I've tried have been good or excellent.</text>
+		<aspectTerms>
+			<aspectTerm from="27" polarity="neutral" term="mussels" to="34"/>
+			<aspectTerm from="87" polarity="positive" term="pasta dishes" to="99"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I would say that the atmosphere was nothing amazing, I didn't feel like the authenticity of the history of the place was nearly as prevelant as it could have been in the experience.</text>
+		<aspectTerms>
+			<aspectTerm from="21" polarity="positive" term="atmosphere" to="31"/>
+			<aspectTerm from="111" polarity="neutral" term="place" to="116"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>If it's not on the menu, ask for the string bean and goat cheese salad- delicious.</text>
+		<aspectTerms>
+			<aspectTerm from="19" polarity="neutral" term="menu" to="23"/>
+			<aspectTerm from="37" polarity="positive" term="string bean and goat cheese" to="64"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I had a party of 9 reservation and was very disappointed at the service.</text>
+		<aspectTerms>
+			<aspectTerm from="19" polarity="neutral" term="reservation" to="30"/>
+			<aspectTerm from="64" polarity="negative" term="service" to="71"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Fifteen minutes later, when we asked about our drinks, another server went to investigate and found that they'd run out of one of the liqueurs they needed and had gone out to get more -- which is fine, but it would've been nice to know.</text>
+		<aspectTerms>
+			<aspectTerm from="47" polarity="neutral" term="drinks" to="53"/>
+			<aspectTerm from="63" polarity="negative" term="server" to="69"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>WHen I politely asked for a water he pointed to the waiter and looked the other way!</text>
+		<aspectTerms>
+			<aspectTerm from="28" polarity="neutral" term="water" to="33"/>
+			<aspectTerm from="52" polarity="negative" term="waiter" to="58"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Waiters take your order and you don't get your food for at least 1 hour so you can prchase drinks.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Waiters" to="7"/>
+			<aspectTerm from="47" polarity="neutral" term="food" to="51"/>
+			<aspectTerm from="91" polarity="neutral" term="drinks" to="97"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Frustrated, hand the check back to the server and said 'by the way, never got the dessert and he said i did not realize you wanted dessert'</text>
+		<aspectTerms>
+			<aspectTerm from="21" polarity="neutral" term="check" to="26"/>
+			<aspectTerm from="39" polarity="negative" term="server" to="45"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We got so frustrated with our waitress, who stopped by twice over the course of 2 1/2 hours, that we had to order everything from the bar.</text>
+		<aspectTerms>
+			<aspectTerm from="30" polarity="negative" term="waitress" to="38"/>
+			<aspectTerm from="134" polarity="neutral" term="bar" to="137"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The complete and total rudeness and frustration surrounding this place started with the hostess calling us in the middle of the afternoon asking if we could change our reservation.</text>
+		<aspectTerms>
+			<aspectTerm from="88" polarity="negative" term="hostess" to="95"/>
+			<aspectTerm from="128" polarity="neutral" term="afternoon" to="137"/>
+			<aspectTerm from="168" polarity="neutral" term="reservation" to="179"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>However, the appetizers I've tried (rolls, calamari, fish fingers) were really delicious.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="positive" term="appetizers" to="23"/>
+			<aspectTerm from="36" polarity="neutral" term="rolls" to="41"/>
+			<aspectTerm from="43" polarity="neutral" term="calamari" to="51"/>
+			<aspectTerm from="53" polarity="neutral" term="fish" to="57"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>service was reasonably quick via delivery, but the hunan beef had no spice whatsoever and the chicken chow mein really looked inedible.</text>
+		<aspectTerms>
+			<aspectTerm from="33" polarity="positive" term="delivery" to="41"/>
+			<aspectTerm from="51" polarity="negative" term="hunan beef" to="61"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Go have a drink there the space is beautiful and buy an appetizer maybe, but pass on dinner, not well cooked and small portions.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="positive" term="space" to="31"/>
+			<aspectTerm from="56" polarity="neutral" term="appetizer" to="65"/>
+			<aspectTerm from="85" polarity="neutral" term="dinner" to="91"/>
+			<aspectTerm from="119" polarity="negative" term="portions" to="127"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The steaks are just as good, with an assortment of tasty side dishes that make Peter Luger's menu look like the slip in a fortune cookie.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="steaks" to="10"/>
+			<aspectTerm from="37" polarity="neutral" term="assortment" to="47"/>
+			<aspectTerm from="57" polarity="positive" term="side dishes" to="68"/>
+			<aspectTerm from="93" polarity="neutral" term="menu" to="97"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Food was so-so, but it was the most awful dinner I experienced in my life.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="neutral" term="Food" to="4"/>
+			<aspectTerm from="42" polarity="negative" term="dinner" to="48"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For a menu in a similar price range with some similar items, but mostly unique entrees, try the less formal Toast 13 or so blocks north on the same side of Broadway.</text>
+		<aspectTerms>
+			<aspectTerm from="24" polarity="neutral" term="price range" to="35"/>
+			<aspectTerm from="79" polarity="positive" term="entrees" to="86"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The feeling of unwelcomeness was especially prevalent due to the fact that our waiter hovered over our table and immediately cleared the table of dishes and glasses, some of which were still full in order to get us out the door ASAP.</text>
+		<aspectTerms>
+			<aspectTerm from="79" polarity="negative" term="waiter" to="85"/>
+			<aspectTerm from="137" polarity="neutral" term="table of dishes" to="152"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>They seem under staffed and Waiters do not really know the menu.</text>
+		<aspectTerms>
+			<aspectTerm from="28" polarity="negative" term="Waiters" to="35"/>
+			<aspectTerm from="59" polarity="neutral" term="menu" to="63"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The manager (or someone very important that was able to be seated 1/2 hour before opening) sat in the corner, with a glass of wine, a date, and talked on his cell for about an hour, loudly, while the first arrivals were sent to the hotel tearoom next door.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="manager" to="11"/>
+			<aspectTerm from="102" polarity="neutral" term="corner" to="108"/>
+			<aspectTerm from="117" polarity="neutral" term="glass of wine" to="130"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It still took a little while to get our drinks and food - But the atmosphere made up for it.</text>
+		<aspectTerms>
+			<aspectTerm from="40" polarity="neutral" term="drinks" to="46"/>
+			<aspectTerm from="66" polarity="positive" term="atmosphere" to="76"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Manager couldn't be bothered to come over and acknowledge the mistake.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Manager" to="7"/>
+			<aspectTerm from="62" polarity="positive" term="mistake" to="69"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>This place has great ribs, not to mention hot waitresses, its a great place to meet for drinks and dinner before you go out, but it does turn into a bit of a sausage fest on the weekends.</text>
+		<aspectTerms>
+			<aspectTerm from="21" polarity="positive" term="ribs" to="25"/>
+			<aspectTerm from="46" polarity="positive" term="waitresses" to="56"/>
+			<aspectTerm from="88" polarity="neutral" term="drinks" to="94"/>
+			<aspectTerm from="99" polarity="neutral" term="dinner" to="105"/>
+			<aspectTerm from="158" polarity="neutral" term="sausage fest" to="170"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>You may as well just extend the bar into the restaurant since it has already penetrated it with loud music, loud voices, and a remarkable amount of cigarette smoke.</text>
+		<aspectTerms>
+			<aspectTerm from="32" polarity="neutral" term="bar" to="35"/>
+			<aspectTerm from="101" polarity="negative" term="music" to="106"/>
+			<aspectTerm from="158" polarity="negative" term="smoke" to="163"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>After I had complained to a bouncer (the manager would not see me) a waiter was sent over and did get us our drinks.</text>
+		<aspectTerms>
+			<aspectTerm from="41" polarity="negative" term="manager" to="48"/>
+			<aspectTerm from="69" polarity="negative" term="waiter" to="75"/>
+			<aspectTerm from="109" polarity="neutral" term="drinks" to="115"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>After waiting for 90 minutes, the host gave away our table to a couple who arrived after us.</text>
+		<aspectTerms>
+			<aspectTerm from="6" polarity="negative" term="waiting" to="13"/>
+			<aspectTerm from="34" polarity="neutral" term="host" to="38"/>
+			<aspectTerm from="53" polarity="neutral" term="table" to="58"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We had to ask FIFTEEN TIMES for water, we had no idea what we were eating (due to incomprehensible serving staff), waited 25 minutes after asking for our bill, and were charged a 20% corking fee ON WINE WE BOUGHT THERE.</text>
+		<aspectTerms>
+			<aspectTerm from="32" polarity="neutral" term="water" to="37"/>
+			<aspectTerm from="99" polarity="negative" term="serving staff" to="112"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The server (Jasmine) checked up on us periodically and was patient as she explained certain menu items.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="server" to="10"/>
+			<aspectTerm from="92" polarity="neutral" term="menu items" to="102"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waitress saw a couple of us struggling with the menu and I felt she was frustrated with us.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waitress" to="12"/>
+			<aspectTerm from="52" polarity="neutral" term="menu" to="56"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The service was unattentive and the only time she came over was to aggressively push drinks on us.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="service" to="11"/>
+			<aspectTerm from="85" polarity="neutral" term="drinks" to="91"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>However, unlike a lot of places the service was great: we walked in after not being able to get a reservation and were seated within 10 mins.</text>
+		<aspectTerms>
+			<aspectTerm from="36" polarity="positive" term="service" to="43"/>
+			<aspectTerm from="98" polarity="neutral" term="reservation" to="109"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I asked the waiter to move us to another table because we didn't want to rush our meal.</text>
+		<aspectTerms>
+			<aspectTerm from="12" polarity="neutral" term="waiter" to="18"/>
+			<aspectTerm from="41" polarity="neutral" term="table" to="46"/>
+			<aspectTerm from="82" polarity="negative" term="meal" to="86"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waitress was friendly but did not know the menu and had to run to the kitchen after each question.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waitress" to="12"/>
+			<aspectTerm from="47" polarity="neutral" term="menu" to="51"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It is far more popular as a bar than as a restaurant, with only a few tables and the waiter being the bartender, but we greatly enjoyed the unobtrusive atmosphere.</text>
+		<aspectTerms>
+			<aspectTerm from="70" polarity="neutral" term="tables" to="76"/>
+			<aspectTerm from="152" polarity="positive" term="atmosphere" to="162"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The drinkers beside us had fresh glasses of water brought on trays to replace the empties and a smiling waitress to cater to their every whim.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="drinkers" to="12"/>
+			<aspectTerm from="61" polarity="neutral" term="trays" to="66"/>
+			<aspectTerm from="104" polarity="positive" term="waitress" to="112"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>They ended up cramming 10 of us on 3 small tables, then taking forever with our food.</text>
+		<aspectTerms>
+			<aspectTerm from="43" polarity="negative" term="tables" to="49"/>
+			<aspectTerm from="80" polarity="neutral" term="food" to="84"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I could not get a reservation on the phone and when I arrived they would not seat us even though they were half empty.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="neutral" term="reservation" to="29"/>
+			<aspectTerm from="77" polarity="negative" term="seat" to="81"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I was told they had one(early) reservation; felt deceived b/c when I left the place was empty!</text>
+		<aspectTerms>
+			<aspectTerm from="31" polarity="neutral" term="reservation" to="42"/>
+			<aspectTerm from="78" polarity="negative" term="place" to="83"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For appetizers, wine, dinner, desert, great convesation, expect to spend a couple of hours.</text>
+		<aspectTerms>
+			<aspectTerm from="16" polarity="neutral" term="wine" to="20"/>
+			<aspectTerm from="22" polarity="neutral" term="dinner" to="28"/>
+			<aspectTerm from="30" polarity="neutral" term="desert" to="36"/>
+			<aspectTerm from="44" polarity="positive" term="convesation" to="55"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Most of the staff are friendly but if you're unlucky enough to be served by the waitress that isn't, then the experience can be rather unpleasant.</text>
+		<aspectTerms>
+			<aspectTerm from="12" polarity="positive" term="staff" to="17"/>
+			<aspectTerm from="80" polarity="negative" term="waitress" to="88"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>When after 2 hours we did ask for our entrees, the waiter and busboy were both extremely rude.</text>
+		<aspectTerms>
+			<aspectTerm from="38" polarity="neutral" term="entrees" to="45"/>
+			<aspectTerm from="51" polarity="negative" term="waiter" to="57"/>
+			<aspectTerm from="62" polarity="negative" term="busboy" to="68"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>As we looked at the menu and the wine list, my friend overheard the manager comment to a waitress about me that the least he could do is wear a button down shirt, and not show up dressed like a Gristede's boxcutter.</text>
+		<aspectTerms>
+			<aspectTerm from="20" polarity="neutral" term="menu" to="24"/>
+			<aspectTerm from="68" polarity="negative" term="manager" to="75"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Hearty appetizers include garlicky tomato bruschetta; a platter of prosciutto with dry-aged sausage; and baby spinach salad with shaved pecorino cheese.</text>
+		<aspectTerms>
+			<aspectTerm from="7" polarity="positive" term="appetizers" to="17"/>
+			<aspectTerm from="26" polarity="neutral" term="garlicky tomato bruschetta" to="52"/>
+			<aspectTerm from="56" polarity="neutral" term="platter of prosciutto with dry-aged sausage" to="99"/>
+			<aspectTerm from="105" polarity="neutral" term="baby spinach salad with shaved pecorino cheese" to="151"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>not authentic sushi or the highest quality fish (yes, I think I'm qualified to state that)  good sushi rolls and appetizers  the rock shrimp avocado roll is recommended.</text>
+		<aspectTerms>
+			<aspectTerm from="35" polarity="neutral" term="quality fish" to="47"/>
+			<aspectTerm from="97" polarity="positive" term="sushi rolls" to="108"/>
+			<aspectTerm from="113" polarity="positive" term="appetizers  the rock shrimp avocado roll" to="153"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I'm not going to trash the place simply because I had a bad experience there, but here's the facts: the food is very good, the portions are small-to-medium, and the prices are large.</text>
+		<aspectTerms>
+			<aspectTerm from="27" polarity="negative" term="place" to="32"/>
+			<aspectTerm from="104" polarity="positive" term="food" to="108"/>
+			<aspectTerm from="127" polarity="negative" term="portions" to="135"/>
+			<aspectTerm from="165" polarity="negative" term="prices" to="171"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Spoke with the manager about comping a round, after we had already paid for 2 rounds waiting for the table.</text>
+		<aspectTerms>
+			<aspectTerm from="15" polarity="negative" term="manager" to="22"/>
+			<aspectTerm from="85" polarity="neutral" term="waiting" to="92"/>
+			<aspectTerm from="101" polarity="neutral" term="table" to="106"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>My boyfriend and I loved Imagine Bar and Grill.</text>
+		<aspectTerms>
+			<aspectTerm from="33" polarity="positive" term="Bar" to="36"/>
+			<aspectTerm from="41" polarity="neutral" term="Grill" to="46"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food at Cafe Asean is to die for, and the prices are unmatchable.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="46" polarity="negative" term="prices" to="52"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our waitress recommended the coffee flan for dessert, and we didn't regret it.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="waitress" to="12"/>
+			<aspectTerm from="29" polarity="positive" term="coffee flan" to="40"/>
+			<aspectTerm from="45" polarity="positive" term="dessert" to="52"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Food was fresh yet dull, especially for the price ($12-14 appetizers; $22-$27 entrees).</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="positive" term="Food" to="4"/>
+			<aspectTerm from="44" polarity="neutral" term="price" to="49"/>
+			<aspectTerm from="58" polarity="neutral" term="appetizers" to="68"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>A popular diner in the Metro Tch Brooklyn area catering to local brooklyn ites or the wall street financial back office employees of Metrotech.</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="positive" term="diner" to="15"/>
+			<aspectTerm from="120" polarity="neutral" term="employees" to="129"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I would also recommend the garlic bread for a starter.</text>
+		<aspectTerms>
+			<aspectTerm from="27" polarity="positive" term="garlic bread" to="39"/>
+			<aspectTerm from="46" polarity="neutral" term="starter" to="53"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waiter brought out the same dish three times during the meal.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waiter" to="10"/>
+			<aspectTerm from="60" polarity="neutral" term="meal" to="64"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Students, artists, and young parents with their tots in tow linger all day on the mismatched couches and chairs--the place closes way too early to lure a late-night crowd.</text>
+		<aspectTerms>
+			<aspectTerm from="93" polarity="positive" term="couches" to="100"/>
+			<aspectTerm from="105" polarity="neutral" term="chairs" to="111"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our waitress had no clue about the menu and (after we had ordered a bottle of wine) told us the kitchen was closing and stood guard until we ordered.</text>
+		<aspectTerms>
+			<aspectTerm from="35" polarity="negative" term="menu" to="39"/>
+			<aspectTerm from="68" polarity="neutral" term="bottle of wine" to="82"/>
+			<aspectTerm from="96" polarity="neutral" term="kitchen" to="103"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waiter was able to answer any questions I had about the wine or food.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="waiter" to="10"/>
+			<aspectTerm from="60" polarity="neutral" term="wine" to="64"/>
+			<aspectTerm from="68" polarity="neutral" term="food" to="72"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>IT'S GREAT COFFEE BUT THE SERVICE IS SERVED WITH BIG TIME ATTITUDE.</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="positive" term="COFFEE" to="17"/>
+			<aspectTerm from="26" polarity="negative" term="SERVICE" to="33"/>
+			<aspectTerm from="37" polarity="neutral" term="SERVED" to="43"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Once they took our wine order, it took 45 minutes for it to arrive, even though the waiter was talking to a patron next to us.</text>
+		<aspectTerms>
+			<aspectTerm from="19" polarity="neutral" term="wine" to="23"/>
+			<aspectTerm from="84" polarity="negative" term="waiter" to="90"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I would only go back for a lobster roll at lunch.</text>
+		<aspectTerms>
+			<aspectTerm from="27" polarity="positive" term="lobster roll" to="39"/>
+			<aspectTerm from="43" polarity="neutral" term="lunch" to="48"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The ambience and service here are great but the food was really awful.</text>
+		<aspectTerms>
+			<aspectTerm from="17" polarity="positive" term="service" to="24"/>
+			<aspectTerm from="48" polarity="negative" term="food" to="52"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For a 4-star restaurant (not to mention a $400 dinner for two), attentive service is expected.</text>
+		<aspectTerms>
+			<aspectTerm from="47" polarity="neutral" term="dinner" to="53"/>
+			<aspectTerm from="74" polarity="positive" term="service" to="81"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our waiter (who also seemed to be the manager) dropped red wine all over me the contents of my purse and all he did was apologize quickly, hand me some club soda and avoid me for the rest of the time I was there.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waiter" to="10"/>
+			<aspectTerm from="38" polarity="negative" term="manager" to="45"/>
+			<aspectTerm from="152" polarity="neutral" term="club soda" to="161"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>My only complaint was the ginger iced tea was too sugary - but the home-made fresh lemonade was very tasty and fresh.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="negative" term="ginger iced tea" to="41"/>
+			<aspectTerm from="67" polarity="positive" term="home-made fresh lemonade" to="91"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Beyond the green awning and floor-to-ceiling windows, sophisticated (and often European) patrons drink wine from the bar in back and dine on French fare like nicoise salad, foie gras, and steak tartare at tightly packed tables.</text>
+		<aspectTerms>
+			<aspectTerm from="97" polarity="neutral" term="drink wine" to="107"/>
+			<aspectTerm from="117" polarity="neutral" term="bar" to="120"/>
+			<aspectTerm from="133" polarity="neutral" term="dine" to="137"/>
+			<aspectTerm from="141" polarity="neutral" term="French fare" to="152"/>
+			<aspectTerm from="188" polarity="neutral" term="steak tartare" to="201"/>
+			<aspectTerm from="220" polarity="negative" term="tables" to="226"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Definitely try their Pizzas and Wines--although their desserts are not-to-shabby either.</text>
+		<aspectTerms>
+			<aspectTerm from="21" polarity="positive" term="Pizzas" to="27"/>
+			<aspectTerm from="32" polarity="positive" term="Wines" to="37"/>
+			<aspectTerm from="54" polarity="negative" term="desserts" to="62"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We ordered the steak for four and some side dishes (the cream spinach was a bit salty, but the German fries was really good).</text>
+		<aspectTerms>
+			<aspectTerm from="15" polarity="neutral" term="steak" to="20"/>
+			<aspectTerm from="56" polarity="negative" term="cream spinach" to="69"/>
+			<aspectTerm from="95" polarity="positive" term="German fries" to="107"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For entrees, Manzo, melt in your mouth beef medallions complemented by plump, sweet raisins + spinach.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="entrees" to="11"/>
+			<aspectTerm from="84" polarity="positive" term="raisins + spinach" to="101"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Too bad the food and service aren't nearly as nice as the decor.</text>
+		<aspectTerms>
+			<aspectTerm from="12" polarity="neutral" term="food" to="16"/>
+			<aspectTerm from="21" polarity="negative" term="service" to="28"/>
+			<aspectTerm from="58" polarity="positive" term="decor" to="63"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>If you want to go there only go for drinks and the atmosphere b/c the food is definitly not worth it!!</text>
+		<aspectTerms>
+			<aspectTerm from="36" polarity="neutral" term="drinks" to="42"/>
+			<aspectTerm from="70" polarity="negative" term="food" to="74"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The appetizers were delicious and the entrees were superb (the mahi was a little bland, but I guess you can't win them all).</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="appetizers" to="14"/>
+			<aspectTerm from="38" polarity="positive" term="entrees" to="45"/>
+			<aspectTerm from="63" polarity="negative" term="mahi" to="67"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The ambience isn't great but the food is so tasty and so reasonably priced that it's definitely a fun date place if you want to get a bunch of stuff and sample.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="ambience" to="12"/>
+			<aspectTerm from="33" polarity="positive" term="food" to="37"/>
+			<aspectTerm from="68" polarity="positive" term="priced" to="74"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Oh, the prices were not so bad either, we paid $58 for chicken, salmon, one sushi roll, one ceasar salad and soda :).</text>
+		<aspectTerms>
+			<aspectTerm from="8" polarity="positive" term="prices" to="14"/>
+			<aspectTerm from="64" polarity="neutral" term="salmon" to="70"/>
+			<aspectTerm from="109" polarity="neutral" term="soda" to="113"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food is average the prices high and the whole experience was very upsetting.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="food" to="8"/>
+			<aspectTerm from="24" polarity="negative" term="prices" to="30"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We had to wait 30 minutes before the waiter even came to our table and had to ask 4 times just to get a glass of water.</text>
+		<aspectTerms>
+			<aspectTerm from="37" polarity="negative" term="waiter" to="43"/>
+			<aspectTerm from="104" polarity="neutral" term="glass of water" to="118"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The ice cream at the end of the meal was a surprise and I loved it.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="ice cream" to="13"/>
+			<aspectTerm from="32" polarity="neutral" term="meal" to="36"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Chicken options are fantastic, notably chicken with spices.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="positive" term="Chicken options" to="15"/>
+			<aspectTerm from="52" polarity="neutral" term="spices" to="58"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The wine list didn't look all that great, but there was a very interesting selection of beers on tap.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="wine list" to="13"/>
+			<aspectTerm from="88" polarity="positive" term="beers" to="93"/>
+			<aspectTerm from="97" polarity="neutral" term="tap" to="100"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food was of a relatively high standard, except the oysters seemed a little off.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="55" polarity="negative" term="oysters" to="62"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Good food, but bad service.</text>
+		<aspectTerms>
+			<aspectTerm from="5" polarity="positive" term="food" to="9"/>
+			<aspectTerm from="19" polarity="negative" term="service" to="26"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Oh yeah, the food's just alright for the price.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="positive" term="food" to="17"/>
+			<aspectTerm from="41" polarity="neutral" term="price" to="46"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Further, our waiter was basically inattentive through the entire dinner (e.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="negative" term="waiter" to="19"/>
+			<aspectTerm from="65" polarity="neutral" term="dinner" to="71"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our waitress was pleasent and patient as we asked about all the various types of sushi.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="waitress" to="12"/>
+			<aspectTerm from="81" polarity="neutral" term="sushi" to="86"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>My boyfriend's halibut was slightly undercooked, so he sent it back -- the result was not only a fresh piece of perfectly cooked fish, but also a complimentary spread of FOUR desserts!</text>
+		<aspectTerms>
+			<aspectTerm from="15" polarity="negative" term="halibut" to="22"/>
+			<aspectTerm from="160" polarity="negative" term="spread" to="166"/>
+			<aspectTerm from="175" polarity="neutral" term="desserts" to="183"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I went back a different night, once again I can't remember which, probably Friday and the place was a ghost town, with a corny DJ and a waitress who couldn't get my friend's drink right after several tries.</text>
+		<aspectTerms>
+			<aspectTerm from="90" polarity="neutral" term="place" to="95"/>
+			<aspectTerm from="136" polarity="negative" term="waitress" to="144"/>
+			<aspectTerm from="174" polarity="neutral" term="drink" to="179"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our waitress took our order and then NEVER came back to our table.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waitress" to="12"/>
+			<aspectTerm from="60" polarity="neutral" term="table" to="65"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For appetizers we ordered Chicken Samosas and Lasooni Gobi and for main course we ordered Chicken Tikka Masala, Lamb Pasanda and Saag Paneer they were all just scrumptious.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="appetizers" to="14"/>
+			<aspectTerm from="90" polarity="positive" term="Chicken Tikka Masala" to="110"/>
+			<aspectTerm from="112" polarity="positive" term="Lamb Pasanda" to="124"/>
+			<aspectTerm from="129" polarity="positive" term="Saag Paneer" to="140"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The atmosphere was nice in the front room, but despite a reservation, we were relegated to the rear, where we were treated like stepchildren - we had to flag someone down to take our order, water with no ice, we had to ask for extras (as opposed to someone asking if we needed something else).</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="atmosphere" to="14"/>
+			<aspectTerm from="57" polarity="neutral" term="reservation" to="68"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The owner addressed me by my first name after my second visit The garlic shrimp is a hit and the Sangria ( the bartender on Fridays mixes the drink in three ways).</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="owner" to="9"/>
+			<aspectTerm from="66" polarity="positive" term="garlic shrimp" to="79"/>
+			<aspectTerm from="111" polarity="positive" term="bartender" to="120"/>
+			<aspectTerm from="142" polarity="neutral" term="drink" to="147"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Sure, the waitresses are hot, but you'll have to wait 30 minutes just to get your drinks.</text>
+		<aspectTerms>
+			<aspectTerm from="10" polarity="positive" term="waitresses" to="20"/>
+			<aspectTerm from="82" polarity="neutral" term="drinks" to="88"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The guy was pleasant and friendly but that only goes so far when you are hungry and have to wait 2 hours for a pizza.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="guy" to="7"/>
+			<aspectTerm from="111" polarity="neutral" term="pizza" to="116"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Try the shrimp and bacon hash with a perfectly spicy bloody or two, what a brunch should be.</text>
+		<aspectTerms>
+			<aspectTerm from="8" polarity="positive" term="shrimp and bacon hash" to="29"/>
+			<aspectTerm from="75" polarity="neutral" term="brunch" to="81"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food is worth it, but I suggest you order delivery, so that you don't have to read old issues of Robb Report while you wait forever in a small and hot room.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="46" polarity="neutral" term="delivery" to="54"/>
+			<aspectTerm from="155" polarity="negative" term="room" to="159"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Dessert: Creme Brulee-it was okay, it started off warm on the edges then it got really cold in the middle.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="neutral" term="Dessert" to="7"/>
+			<aspectTerm from="9" polarity="negative" term="Creme Brulee-it" to="24"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food.</text>
+		<aspectTerms>
+			<aspectTerm from="38" polarity="neutral" term="drinks" to="44"/>
+			<aspectTerm from="85" polarity="positive" term="dishes" to="91"/>
+			<aspectTerm from="120" polarity="neutral" term="Indian food" to="131"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Try the blk fettucine with the lobster or the cioppino.</text>
+		<aspectTerms>
+			<aspectTerm from="8" polarity="positive" term="blk fettucine" to="21"/>
+			<aspectTerm from="31" polarity="neutral" term="lobster" to="38"/>
+			<aspectTerm from="46" polarity="neutral" term="cioppino" to="54"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Then the waiter acted indignant when we called him out for bring us the wrong (later) vintage of wine we picked out.</text>
+		<aspectTerms>
+			<aspectTerm from="9" polarity="negative" term="waiter" to="15"/>
+			<aspectTerm from="97" polarity="neutral" term="wine" to="101"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Sushi was of the highest caliber, the cut as if a master samurai marks smith was behind the bar, and service, just what you would expect from a fine dining establishment, New York style.</text>
+		<aspectTerms>
+			<aspectTerm from="96" polarity="neutral" term="bar" to="99"/>
+			<aspectTerm from="105" polarity="neutral" term="service" to="112"/>
+			<aspectTerm from="160" polarity="positive" term="establishment" to="173"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Waitress we had appered to be very impatient, didn't know the name of the fish in English, apptizer came when we were having entree and she made no apology.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Waitress" to="8"/>
+			<aspectTerm from="125" polarity="neutral" term="entree" to="131"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food is definitely the attraction, but the service has been consistently bad on every visit.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="47" polarity="negative" term="service" to="54"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I excused myself from my table went downstairs to inform the hostess that I would like to suprise my dinner guest by recognizing his birthday in a very understated way.</text>
+		<aspectTerms>
+			<aspectTerm from="61" polarity="positive" term="hostess" to="68"/>
+			<aspectTerm from="101" polarity="neutral" term="dinner" to="107"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Filet Mignon is awesome, along with everything else on the menu.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="Filet Mignon" to="16"/>
+			<aspectTerm from="63" polarity="neutral" term="menu" to="67"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>) And don't forget the svc, those waiters stare at you your entire meal, just waiting for you to put your fork down and they snatch the plate away in a second.</text>
+		<aspectTerms>
+			<aspectTerm from="34" polarity="negative" term="waiters" to="41"/>
+			<aspectTerm from="67" polarity="neutral" term="meal" to="71"/>
+			<aspectTerm from="78" polarity="neutral" term="waiting" to="85"/>
+			<aspectTerm from="106" polarity="neutral" term="fork" to="110"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waitress really struggled with anything more complicated than that--not sure if it was a language problem or what, but 3 of the 4 drinks we ordered came both late and wrong, including beer brought in place of a cocktail, the wrong wine, and a mystery drink that nobody had ordered.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waitress" to="12"/>
+			<aspectTerm from="134" polarity="negative" term="drinks" to="140"/>
+			<aspectTerm from="188" polarity="neutral" term="beer" to="192"/>
+			<aspectTerm from="215" polarity="neutral" term="cocktail" to="223"/>
+			<aspectTerm from="235" polarity="negative" term="wine" to="239"/>
+			<aspectTerm from="247" polarity="neutral" term="mystery drink" to="260"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>While getting a reservation upstairs can be a pain, stopping by on Saturday night for a dinner by the window is a fun way to experience Babbo without the long term planning.</text>
+		<aspectTerms>
+			<aspectTerm from="16" polarity="neutral" term="reservation" to="27"/>
+			<aspectTerm from="88" polarity="positive" term="dinner" to="94"/>
+			<aspectTerm from="98" polarity="neutral" term="the window" to="108"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Scene Uncomplicated, tasteful touches--a soothing abstract painting, an exposed brick wall, a tiny bar--grace the restaurant's neutral-toned interior.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="Scene" to="9"/>
+			<aspectTerm from="103" polarity="negative" term="bar" to="106"/>
+			<aspectTerm from="145" polarity="positive" term="interior" to="153"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Freshly shucked oysters and clams appeal to purists, while classicists order crisp-crusted, all-meat lump crab cakes and chopped iceburg-feta salads.</text>
+		<aspectTerms>
+			<aspectTerm from="101" polarity="positive" term="lump crab cakes" to="116"/>
+			<aspectTerm from="121" polarity="neutral" term="chopped iceburg-feta salads" to="148"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>One price for dinner left for no surprises.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="price" to="9"/>
+			<aspectTerm from="14" polarity="neutral" term="dinner" to="20"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The burritos are so great, I crave them while I am sitting at my desk and dreaming about lunch.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="burritos" to="12"/>
+			<aspectTerm from="89" polarity="neutral" term="lunch" to="94"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Dishes are best shared with groups, as are the pitchers of sangria.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="positive" term="Dishes" to="6"/>
+			<aspectTerm from="59" polarity="neutral" term="sangria" to="66"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I lived next door and loved to go down for a drink at their uplit marble bar under the beautiful lighting or sit by the fireplace when the live band is not playing.</text>
+		<aspectTerms>
+			<aspectTerm from="73" polarity="neutral" term="bar" to="76"/>
+			<aspectTerm from="97" polarity="positive" term="lighting" to="105"/>
+			<aspectTerm from="139" polarity="neutral" term="live band" to="148"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Not the most beautiful environment, but the food is consistently delicious and the barbeque is fun and tasty.</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="negative" term="environment" to="34"/>
+			<aspectTerm from="44" polarity="positive" term="food" to="48"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>And the waiter actually replied, yes that's why it took you so long to get a reservation.</text>
+		<aspectTerms>
+			<aspectTerm from="8" polarity="negative" term="waiter" to="14"/>
+			<aspectTerm from="77" polarity="neutral" term="reservation" to="88"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The not-so-friendly-cigarette-reeking waiter asked if we had any questions then when we did ask, he rolled his eyes and covered his face with the menu to say something to a passing coworker.</text>
+		<aspectTerms>
+			<aspectTerm from="38" polarity="negative" term="waiter" to="44"/>
+			<aspectTerm from="146" polarity="neutral" term="menu" to="150"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The staff beginning with the tall gentleman at the door, waiters, etc.</text>
+		<aspectTerms>
+			<aspectTerm from="34" polarity="negative" term="gentleman" to="43"/>
+			<aspectTerm from="51" polarity="neutral" term="door" to="55"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>No one bothered to ask if we were enjoying our food or whether or not we wanted more to drink (we apparently needed to be out by 8).</text>
+		<aspectTerms>
+			<aspectTerm from="47" polarity="positive" term="food" to="51"/>
+			<aspectTerm from="88" polarity="neutral" term="drink" to="93"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The kitchen nails pasta dishes, including spicy linguine with clams and pancetta and perfect gnocchi.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="kitchen nails pasta dishes" to="30"/>
+			<aspectTerm from="48" polarity="positive" term="linguine with clams" to="67"/>
+			<aspectTerm from="93" polarity="positive" term="gnocchi" to="100"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food took forever to come out from the kitchen.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="food" to="8"/>
+			<aspectTerm from="43" polarity="neutral" term="kitchen" to="50"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Though the service might be a little slow, the waitresses are very friendly.</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="negative" term="service" to="18"/>
+			<aspectTerm from="47" polarity="positive" term="waitresses" to="57"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Went to Butter on Monday night for a friend's birthday dinner at like 11:00pm, the kitchen was supposedly closed, but we spoke to the manager and we were seated promptly.</text>
+		<aspectTerms>
+			<aspectTerm from="55" polarity="neutral" term="dinner" to="61"/>
+			<aspectTerm from="83" polarity="neutral" term="kitchen" to="90"/>
+			<aspectTerm from="134" polarity="positive" term="manager" to="141"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Favorites include the Curry Shrimp w/ Mushrooms, Watercress Salad (not listed on menu), and Kao Soy noodle soup with chicken.</text>
+		<aspectTerms>
+			<aspectTerm from="22" polarity="positive" term="Curry Shrimp w/ Mushrooms" to="47"/>
+			<aspectTerm from="49" polarity="positive" term="Watercress Salad" to="65"/>
+			<aspectTerm from="81" polarity="neutral" term="menu" to="85"/>
+			<aspectTerm from="96" polarity="positive" term="Soy noodle soup with chicken" to="124"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I wouldn't go for dinner though cause it gets too crowded and the takeout at night is very slow.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="neutral" term="dinner" to="24"/>
+			<aspectTerm from="66" polarity="negative" term="takeout" to="73"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>My complaint was with the service-- our waitress was rather pushy and visibly annoyed when we didn't order appetizers or dessert.</text>
+		<aspectTerms>
+			<aspectTerm from="40" polarity="negative" term="waitress" to="48"/>
+			<aspectTerm from="107" polarity="neutral" term="appetizers" to="117"/>
+			<aspectTerm from="121" polarity="neutral" term="dessert" to="128"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I have definately found my new favorite place for dinner and with its large bar for hanging out on the weekends.</text>
+		<aspectTerms>
+			<aspectTerm from="40" polarity="positive" term="place" to="45"/>
+			<aspectTerm from="50" polarity="neutral" term="dinner" to="56"/>
+			<aspectTerm from="76" polarity="positive" term="bar" to="79"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Maryland Crabcake roll is good too if you are not into raw fish.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="Maryland Crabcake roll" to="26"/>
+			<aspectTerm from="63" polarity="neutral" term="fish" to="67"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Despite talking to the weekday manager on the prior Monday, who gave me a hard time but agreed to make a reservation for me since my group was so big.</text>
+		<aspectTerms>
+			<aspectTerm from="31" polarity="negative" term="manager" to="38"/>
+			<aspectTerm from="105" polarity="neutral" term="reservation" to="116"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>There's also a weekend brunch, big on poached eggs, omelets and bagels and lox, plus fresh-squeezed OJ.</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="neutral" term="brunch" to="29"/>
+			<aspectTerm from="35" polarity="positive" term="on poached eggs" to="50"/>
+			<aspectTerm from="52" polarity="neutral" term="omelets" to="59"/>
+			<aspectTerm from="64" polarity="neutral" term="bagels" to="70"/>
+			<aspectTerm from="100" polarity="positive" term="OJ" to="102"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>When they brought out the food the waiter dropped one of the plates right in front of us and didn't appologize or bring us out a complimentry plate.</text>
+		<aspectTerms>
+			<aspectTerm from="26" polarity="neutral" term="food" to="30"/>
+			<aspectTerm from="35" polarity="negative" term="waiter" to="41"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our waitress' visits to our table were few and far between.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waitress" to="12"/>
+			<aspectTerm from="28" polarity="neutral" term="table" to="33"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I write that in quotes becuase iceberg lettuce, stale Pepperidge Farm croutons and bottled dressing does not a salad make.</text>
+		<aspectTerms>
+			<aspectTerm from="31" polarity="neutral" term="iceberg lettuce" to="46"/>
+			<aspectTerm from="83" polarity="negative" term="bottled dressing" to="99"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The pork was good but 3 small medalians and 2 tablespoons of mashed potatos does not make a meal.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="pork" to="8"/>
+			<aspectTerm from="92" polarity="neutral" term="meal" to="96"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food and wine selection is superb and the chef brings it all together each and every time.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="13" polarity="positive" term="wine selection" to="27"/>
+			<aspectTerm from="46" polarity="neutral" term="chef" to="50"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The place is full of flavor and color and the music just puts you in the mood for food and drinks.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="place" to="9"/>
+			<aspectTerm from="21" polarity="positive" term="flavor" to="27"/>
+			<aspectTerm from="46" polarity="positive" term="music" to="51"/>
+			<aspectTerm from="82" polarity="positive" term="food" to="86"/>
+			<aspectTerm from="91" polarity="neutral" term="drinks" to="97"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I went on a Saturday night on the recommendation of the new General Manager, Mike who also did Cheetah Club and Le Souk.</text>
+		<aspectTerms>
+			<aspectTerm from="56" polarity="positive" term="new General Manager" to="75"/>
+			<aspectTerm from="103" polarity="neutral" term="Club" to="107"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food will eventually make you outweigh Anna Nicole Smith.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="food" to="8"/>
+			<aspectTerm from="55" polarity="negative" term="Smith" to="60"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>A huge water wall, pieced together with thousands of azure blue tiles dotted with white plaster body forms in mid-swan dive, rises up from the foyer to the second floor.</text>
+		<aspectTerms>
+			<aspectTerm from="59" polarity="positive" term="blue tiles" to="69"/>
+			<aspectTerm from="88" polarity="neutral" term="plaster" to="95"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Come to people watch and drink, but stay away from the food and service.</text>
+		<aspectTerms>
+			<aspectTerm from="25" polarity="neutral" term="drink" to="30"/>
+			<aspectTerm from="55" polarity="negative" term="food" to="59"/>
+			<aspectTerm from="64" polarity="negative" term="service" to="71"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>When the manager was asked for things did imporve but 2 hours to get our meal.</text>
+		<aspectTerms>
+			<aspectTerm from="9" polarity="negative" term="manager" to="16"/>
+			<aspectTerm from="73" polarity="neutral" term="meal" to="77"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Music was blasting (speakers located practically on top of every table), and we asked the waitress if they can turn it down.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Music" to="5"/>
+			<aspectTerm from="90" polarity="neutral" term="waitress" to="98"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Scene Though plenty of white-washed tables and chairs are scattered about the dining room, it's the bar that acts as a neighborhood gathering place.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="Scene" to="9"/>
+			<aspectTerm from="40" polarity="positive" term="tables" to="46"/>
+			<aspectTerm from="51" polarity="neutral" term="chairs" to="57"/>
+			<aspectTerm from="82" polarity="neutral" term="dining room" to="93"/>
+			<aspectTerm from="104" polarity="neutral" term="bar" to="107"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The service was only average - even with reservations we waited 40 minutes, and had to ask for our table, which had been ready, the hostess just never bothered to tell us.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="service" to="11"/>
+			<aspectTerm from="41" polarity="neutral" term="reservations" to="53"/>
+			<aspectTerm from="99" polarity="neutral" term="table" to="104"/>
+			<aspectTerm from="132" polarity="negative" term="hostess" to="139"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Good place for groups of four or large parties but it is not a cozy/intimate setting for 2 although the jazz helps!</text>
+		<aspectTerms>
+			<aspectTerm from="5" polarity="positive" term="place" to="10"/>
+			<aspectTerm from="77" polarity="negative" term="setting" to="84"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Interior is limited, but there is a second floor for dining to avoid some of the main floor chatter.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Interior" to="8"/>
+			<aspectTerm from="53" polarity="neutral" term="dining" to="59"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Definitely make reservations if you can -- they'll honor them, and you can skip the massive wait!</text>
+		<aspectTerms>
+			<aspectTerm from="16" polarity="neutral" term="reservations" to="28"/>
+			<aspectTerm from="92" polarity="negative" term="wait" to="96"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>In edition, they have pasta and other entree choices along with an excellent quick breakfast (omlet and homefries ext).</text>
+		<aspectTerms>
+			<aspectTerm from="22" polarity="neutral" term="pasta" to="27"/>
+			<aspectTerm from="38" polarity="neutral" term="entree" to="44"/>
+			<aspectTerm from="83" polarity="positive" term="breakfast" to="92"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The only reason they seem to taste so good is because the food is well decorated with its super small portion.</text>
+		<aspectTerms>
+			<aspectTerm from="58" polarity="positive" term="food" to="62"/>
+			<aspectTerm from="102" polarity="negative" term="portion" to="109"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Don't they teach their staff how to pour water or wine?</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="negative" term="staff" to="28"/>
+			<aspectTerm from="41" polarity="neutral" term="water or wine" to="54"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>worth every penny, and with the deals on the bar , you could drink and sing to CURRYoke all night,,,,</text>
+		<aspectTerms>
+			<aspectTerm from="32" polarity="neutral" term="deals" to="37"/>
+			<aspectTerm from="45" polarity="neutral" term="bar" to="48"/>
+			<aspectTerm from="61" polarity="neutral" term="drink" to="66"/>
+			<aspectTerm from="12" polarity="positive" term="penny" to="17"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We were a couple of minutes late for our reservation and minus one guest, but we didn't think we deserved the attitude we got from the hostess.</text>
+		<aspectTerms>
+			<aspectTerm from="41" polarity="neutral" term="reservation" to="52"/>
+			<aspectTerm from="135" polarity="negative" term="hostess" to="142"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The menu features American bistro dishes like crab cakes, chicken under a brick, fresh oysters and various seafood dishes.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="menu" to="8"/>
+			<aspectTerm from="18" polarity="neutral" term="American bistro dishes" to="40"/>
+			<aspectTerm from="46" polarity="neutral" term="crab cakes" to="56"/>
+			<aspectTerm from="58" polarity="neutral" term="chicken" to="65"/>
+			<aspectTerm from="107" polarity="positive" term="seafood dishes" to="121"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It's a good place to meet up with a friend while shopping, grab lunch (although the lines do get long), dining solo, or to take home after work.</text>
+		<aspectTerms>
+			<aspectTerm from="84" polarity="negative" term="lines" to="89"/>
+			<aspectTerm from="104" polarity="neutral" term="dining" to="110"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I got a coke and dessert (fluffy, light tiramisu) as well.</text>
+		<aspectTerms>
+			<aspectTerm from="17" polarity="neutral" term="dessert" to="24"/>
+			<aspectTerm from="40" polarity="positive" term="tiramisu" to="48"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Went there for a dinner; nice little place.</text>
+		<aspectTerms>
+			<aspectTerm from="17" polarity="neutral" term="dinner" to="23"/>
+			<aspectTerm from="37" polarity="positive" term="place" to="42"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>my waitress was unable to answer my questions about the menu, and forgot to put in my order.</text>
+		<aspectTerms>
+			<aspectTerm from="3" polarity="negative" term="waitress" to="11"/>
+			<aspectTerm from="56" polarity="neutral" term="menu" to="60"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The noise level is equivalent to a sports bar.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="noise" to="9"/>
+			<aspectTerm from="42" polarity="neutral" term="bar" to="45"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>To sum it up, the steak is indeed the best out there, but the servers and especially the hosts are big time jerks.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="positive" term="steak" to="23"/>
+			<aspectTerm from="62" polarity="negative" term="servers" to="69"/>
+			<aspectTerm from="89" polarity="negative" term="hosts" to="94"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>This Prospect Heights institution, with its old-fashioned soda-fountain type counter, complete with cakes of the day on pedastals w glass covers, attracts a diverse and loyal crowd.</text>
+		<aspectTerms>
+			<aspectTerm from="58" polarity="negative" term="soda-fountain" to="71"/>
+			<aspectTerm from="100" polarity="neutral" term="cakes" to="105"/>
+			<aspectTerm from="175" polarity="positive" term="crowd" to="180"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Staples are available every which way--tacos hard and soft, wrapped in tortillas stuffed with guacamole, cheese or black beans; burritos of beef, breaded catfish, pork pipian and chipotle chicken; plus a choice of four sauces from mild to just plain stupid.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="positive" term="Staples" to="7"/>
+			<aspectTerm from="39" polarity="neutral" term="tacos" to="44"/>
+			<aspectTerm from="105" polarity="neutral" term="cheese" to="111"/>
+			<aspectTerm from="140" polarity="neutral" term="beef" to="144"/>
+			<aspectTerm from="154" polarity="neutral" term="catfish" to="161"/>
+			<aspectTerm from="163" polarity="positive" term="pork pipian" to="174"/>
+			<aspectTerm from="219" polarity="neutral" term="sauces" to="225"/>
+			<aspectTerm from="71" polarity="neutral" term="tortillas stuffed with guacamole" to="103"/>
+			<aspectTerm from="250" polarity="neutral" term="stupid" to="256"/>
+			<aspectTerm from="179" polarity="neutral" term="chipotle chicken" to="195"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For appetizers, I'd recommend the soft shell crab, spicy New Zealand mussels, calamari and anything from the sushi bar.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="appetizers" to="14"/>
+			<aspectTerm from="34" polarity="positive" term="soft shell crab" to="49"/>
+			<aspectTerm from="51" polarity="positive" term="spicy New Zealand mussels" to="76"/>
+			<aspectTerm from="78" polarity="positive" term="calamari" to="86"/>
+			<aspectTerm from="109" polarity="positive" term="sushi bar" to="118"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>A cute restaurant and average food (with a small menu).</text>
+		<aspectTerms>
+			<aspectTerm from="30" polarity="neutral" term="food" to="34"/>
+			<aspectTerm from="49" polarity="negative" term="menu" to="53"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The staff was accomodating towards our daughter and nice enough to check up on her after they served dinner (I was a little concerned about the spices and they suggested a dish).</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="staff" to="9"/>
+			<aspectTerm from="94" polarity="neutral" term="served dinner" to="107"/>
+			<aspectTerm from="144" polarity="neutral" term="spices" to="150"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Food was good although menu was a little limited(still plenty to chose from).</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="positive" term="Food" to="4"/>
+			<aspectTerm from="23" polarity="negative" term="menu" to="27"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The manager then comes over to the table and asks us to leave - to help him out because there were people waiting!</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="manager" to="11"/>
+			<aspectTerm from="106" polarity="neutral" term="waiting" to="113"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The service was good enough for a crowded place.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="service" to="11"/>
+			<aspectTerm from="42" polarity="negative" term="place" to="47"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>So we left, the menu looked decent but you have to go when you can get one of the 2 or 3 tables.</text>
+		<aspectTerms>
+			<aspectTerm from="16" polarity="positive" term="menu" to="20"/>
+			<aspectTerm from="89" polarity="neutral" term="tables" to="95"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Don't forget to order a raspberry lemonade or your brunch will not be complete!</text>
+		<aspectTerms>
+			<aspectTerm from="24" polarity="positive" term="raspberry lemonade" to="42"/>
+			<aspectTerm from="51" polarity="neutral" term="brunch" to="57"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The guacamole at $7 is a small portion served with a stack of Si!Ortega flat taco shells.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="guacamole" to="13"/>
+			<aspectTerm from="31" polarity="negative" term="portion" to="38"/>
+			<aspectTerm from="82" polarity="neutral" term="shells" to="88"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I went there for a late dinner last night with a friend and the service was aweful.</text>
+		<aspectTerms>
+			<aspectTerm from="24" polarity="neutral" term="dinner" to="30"/>
+			<aspectTerm from="64" polarity="negative" term="service" to="71"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>As for their pasta, the tomato sauce, not the tomato basil; it's got a tang I didn't like.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="neutral" term="pasta" to="18"/>
+			<aspectTerm from="20" polarity="negative" term="the tomato sauce" to="36"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>There were sesame seeds on the outside (it's pizza dough not a hamburger bun), barely any sauce, VERY thin slices of mozzarella sparingly applied and topped with lots of herbs.</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="neutral" term="sesame" to="17"/>
+			<aspectTerm from="63" polarity="negative" term="hamburger bun" to="76"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>you might have made a reservation, but you will end up waiting for about an hour anyway, so hopefully you'll get a seat at the bar and won't have to stand around.</text>
+		<aspectTerms>
+			<aspectTerm from="22" polarity="neutral" term="reservation" to="33"/>
+			<aspectTerm from="55" polarity="negative" term="waiting" to="62"/>
+			<aspectTerm from="115" polarity="negative" term="seat" to="119"/>
+			<aspectTerm from="127" polarity="neutral" term="bar" to="130"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Then the waitress became upset when she returned with the drinks and we didn't stop our conversations quick enough to remind her who had ordered what only 5 minutes prior.</text>
+		<aspectTerms>
+			<aspectTerm from="9" polarity="negative" term="waitress" to="17"/>
+			<aspectTerm from="58" polarity="neutral" term="drinks" to="64"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Sit at the bar and eat here regularly and the sushi chef who is also the owner will hook you up the best cuts of fish.</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="neutral" term="bar" to="14"/>
+			<aspectTerm from="46" polarity="positive" term="sushi chef" to="56"/>
+			<aspectTerm from="73" polarity="positive" term="owner" to="78"/>
+			<aspectTerm from="113" polarity="positive" term="fish" to="117"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>maybe we ordered the wrong items because the food was not spectacular, with the exception of the poppy-seeded sweet beet ravioli appetizer.</text>
+		<aspectTerms>
+			<aspectTerm from="45" polarity="negative" term="food" to="49"/>
+			<aspectTerm from="116" polarity="positive" term="beet ravioli appetizer" to="138"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I'm from Italy and i felt home great and fresh food ,good pizza,i been there few times and i always go with the special or seafood, about dessert try the profitterol.</text>
+		<aspectTerms>
+			<aspectTerm from="58" polarity="positive" term="pizza" to="63"/>
+			<aspectTerm from="112" polarity="neutral" term="special" to="119"/>
+			<aspectTerm from="123" polarity="neutral" term="seafood" to="130"/>
+			<aspectTerm from="138" polarity="neutral" term="dessert" to="145"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We poked our heads in for a few bottles of wine, some good hot onion soup and a few hot appetizers to warm us up after a seeing a show.</text>
+		<aspectTerms>
+			<aspectTerm from="59" polarity="positive" term="hot onion soup" to="73"/>
+			<aspectTerm from="84" polarity="neutral" term="hot appetizers" to="98"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>That being said, they do have a nice lounge area downstairs where you can just hang out, have a seat, and relax (no more waiting out in the cold or at the crowded bar).</text>
+		<aspectTerms>
+			<aspectTerm from="121" polarity="negative" term="waiting" to="128"/>
+			<aspectTerm from="163" polarity="negative" term="bar" to="166"/>
+			<aspectTerm from="37" polarity="positive" term="lounge area" to="48"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Food  Most restaurants with more than 250 items on the regular menu don't do any of them particularly well.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="Food" to="8"/>
+			<aspectTerm from="59" polarity="negative" term="regular menu" to="71"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Patrons can choose to be seated in the front room with a little more activity and more of a bar feel or in one of the 2 back rooms which both offer slightly quieter, more relaxed environments.</text>
+		<aspectTerms>
+			<aspectTerm from="92" polarity="neutral" term="bar" to="95"/>
+			<aspectTerm from="120" polarity="neutral" term="back rooms" to="130"/>
+			<aspectTerm from="179" polarity="positive" term="environments" to="191"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>When you go, you should ask for help from the wait staff in deciding what to order since the menu can be daunting.</text>
+		<aspectTerms>
+			<aspectTerm from="46" polarity="neutral" term="wait staff" to="56"/>
+			<aspectTerm from="93" polarity="negative" term="menu" to="97"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The whole fish was excellent--not overcooked and served in a light tomato broth.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="whole fish" to="14"/>
+			<aspectTerm from="49" polarity="neutral" term="served" to="55"/>
+			<aspectTerm from="61" polarity="neutral" term="light tomato broth" to="79"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I love the decor but would not recommend sitting in the communal tables unless its a very big group, much more fun getting a table and people watch while you chomp on your $20 palm sized truffle pizza.</text>
+		<aspectTerms>
+			<aspectTerm from="11" polarity="positive" term="decor" to="16"/>
+			<aspectTerm from="181" polarity="neutral" term="sized truffle pizza" to="200"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I prefer to sit in the lounge area or at the bar, as the service is quicker and the space is more attractive.</text>
+		<aspectTerms>
+			<aspectTerm from="45" polarity="neutral" term="bar" to="48"/>
+			<aspectTerm from="57" polarity="positive" term="service" to="64"/>
+			<aspectTerm from="84" polarity="positive" term="space" to="89"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I went back to telly's because i heard that they changed the Chef and the food was again, after a very very small break, was excellent again.</text>
+		<aspectTerms>
+			<aspectTerm from="61" polarity="neutral" term="Chef" to="65"/>
+			<aspectTerm from="74" polarity="positive" term="food" to="78"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It's really great to go in here and be able to get a creative cheap drink (they have things like blueberry mohitos for $4), a $4 plate of veggie spring rolls, and be able to joke with the bartender.</text>
+		<aspectTerms>
+			<aspectTerm from="68" polarity="positive" term="drink" to="73"/>
+			<aspectTerm from="97" polarity="neutral" term="blueberry mohitos" to="114"/>
+			<aspectTerm from="138" polarity="neutral" term="veggie spring rolls" to="157"/>
+			<aspectTerm from="188" polarity="neutral" term="bartender" to="197"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Tension filled the air as the chief yelled at a waiter in the middle of the bar while in uniform and drinking.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Tension" to="7"/>
+			<aspectTerm from="19" polarity="neutral" term="air" to="22"/>
+			<aspectTerm from="48" polarity="neutral" term="waiter" to="54"/>
+			<aspectTerm from="76" polarity="neutral" term="bar" to="79"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>For dessert, the oversized bread pudding can't be beat.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="dessert" to="11"/>
+			<aspectTerm from="17" polarity="positive" term="oversized bread pudding" to="40"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I don't have much to say about the cafe itself; you can order out from the family-run cafe in the front, or take a seat in the back, which opens up to the outdoors and can offer a less seedy and more homey atmosphere.</text>
+		<aspectTerms>
+			<aspectTerm from="115" polarity="negative" term="seat" to="119"/>
+			<aspectTerm from="206" polarity="positive" term="atmosphere" to="216"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>from the sandwich wraps and hot italian dishes to the creative pizzas.</text>
+		<aspectTerms>
+			<aspectTerm from="9" polarity="neutral" term="sandwich wraps" to="23"/>
+			<aspectTerm from="32" polarity="positive" term="italian dishes" to="46"/>
+			<aspectTerm from="63" polarity="positive" term="pizzas" to="69"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Food While there are plenty of meat dishes, including the sweet and spicy Curry Ga with humongous slices of chicken mixed with eggplant, onions and coconut milk, and Bo Sate with sauteed beef, pineapple and crushed peanuts, seafood and vegetarian dishes make up most of the menu.</text>
+		<aspectTerms>
+			<aspectTerm from="35" polarity="positive" term="meat dishes" to="46"/>
+			<aspectTerm from="141" polarity="neutral" term="onions and coconut milk" to="164"/>
+			<aspectTerm from="191" polarity="neutral" term="beef" to="195"/>
+			<aspectTerm from="197" polarity="neutral" term="pineapple" to="206"/>
+			<aspectTerm from="219" polarity="neutral" term="peanuts" to="226"/>
+			<aspectTerm from="228" polarity="neutral" term="seafood" to="235"/>
+			<aspectTerm from="240" polarity="neutral" term="vegetarian dishes" to="257"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>95 all-you-can-eat lunch is tooted as a good deal but a the ambiance is dreadful and you can get a terrific meal, also kosher vegetarian, in peace with service just around the corner for $2 more.</text>
+		<aspectTerms>
+			<aspectTerm from="108" polarity="positive" term="meal" to="112"/>
+			<aspectTerm from="126" polarity="neutral" term="vegetarian" to="136"/>
+			<aspectTerm from="152" polarity="neutral" term="service" to="159"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Good atmosphere, the service is so-so and there is a long wait if you don't have reservations.</text>
+		<aspectTerms>
+			<aspectTerm from="5" polarity="positive" term="atmosphere" to="15"/>
+			<aspectTerm from="58" polarity="negative" term="wait" to="62"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Even a modest bottle of wine was accurately described by the wait staff and pleasing.</text>
+		<aspectTerms>
+			<aspectTerm from="14" polarity="neutral" term="bottle of wine" to="28"/>
+			<aspectTerm from="61" polarity="positive" term="wait staff" to="71"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I definitely liked the vibe in the restaurant - the food is good with enough variety to please everyone - i'd say the portions were quite skimpy where it counts - meat whether fish or steak- and for those prices this is very irksome.</text>
+		<aspectTerms>
+			<aspectTerm from="23" polarity="neutral" term="vibe" to="27"/>
+			<aspectTerm from="52" polarity="positive" term="food" to="56"/>
+			<aspectTerm from="118" polarity="negative" term="portions" to="126"/>
+			<aspectTerm from="176" polarity="neutral" term="fish" to="180"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>went there for dinner over the weekend and was treated rudely right away by what I think was a manager who was doing anything but managing.</text>
+		<aspectTerms>
+			<aspectTerm from="15" polarity="neutral" term="dinner" to="21"/>
+			<aspectTerm from="95" polarity="negative" term="manager" to="102"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Come-as-you-are atmosphere, jukebox, value and James behind the bar work as a magnet.</text>
+		<aspectTerms>
+			<aspectTerm from="16" polarity="positive" term="atmosphere" to="26"/>
+			<aspectTerm from="28" polarity="neutral" term="jukebox" to="35"/>
+			<aspectTerm from="37" polarity="neutral" term="value" to="42"/>
+			<aspectTerm from="64" polarity="neutral" term="bar" to="67"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Our waiter never once came by the table to ask us how our meal was.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waiter" to="10"/>
+			<aspectTerm from="34" polarity="neutral" term="table" to="39"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>My dinner partner ordered the angel hair with seafood - the portion was easily big enough for two.</text>
+		<aspectTerms>
+			<aspectTerm from="3" polarity="neutral" term="dinner" to="9"/>
+			<aspectTerm from="36" polarity="neutral" term="hair" to="40"/>
+			<aspectTerm from="60" polarity="positive" term="portion" to="67"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>After waiting almost an hour for a table (with resies) our waiter told us that they don't have a sommelier because no steakhouse has a sommelier (patently false), and finished with the notion that he had absolutely no idea about any of the wines on the list.</text>
+		<aspectTerms>
+			<aspectTerm from="6" polarity="neutral" term="waiting" to="13"/>
+			<aspectTerm from="59" polarity="negative" term="waiter" to="65"/>
+			<aspectTerm from="240" polarity="neutral" term="wines" to="245"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Great food as usual, the paella valenciana our fave and oooh those coconut mojitos ahh!</text>
+		<aspectTerms>
+			<aspectTerm from="6" polarity="positive" term="food" to="10"/>
+			<aspectTerm from="25" polarity="neutral" term="paella" to="31"/>
+			<aspectTerm from="67" polarity="neutral" term="coconut mojitos" to="82"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>waitstaff was more into pushing the sparkling water than give me a wine menu.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="waitstaff" to="9"/>
+			<aspectTerm from="46" polarity="neutral" term="water" to="51"/>
+			<aspectTerm from="67" polarity="neutral" term="wine menu" to="76"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>There was a nice atmosphere except for the few pompous patrons who looked way too gaudy or a lunch time meal, but overall its a great place to eat.</text>
+		<aspectTerms>
+			<aspectTerm from="17" polarity="positive" term="atmosphere" to="27"/>
+			<aspectTerm from="93" polarity="neutral" term="lunch" to="98"/>
+			<aspectTerm from="104" polarity="neutral" term="meal" to="108"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The place is huge, but it's always packed with people waiting to be seated because they made the mistake of not making a reservation!</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="place" to="9"/>
+			<aspectTerm from="121" polarity="neutral" term="reservation" to="132"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I had to ask the waiter a couple of times to clear our empty glasses.</text>
+		<aspectTerms>
+			<aspectTerm from="17" polarity="negative" term="waiter" to="23"/>
+			<aspectTerm from="61" polarity="neutral" term="glasses" to="68"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The place was empty (my boyfriend and I were the only one's there other than the potty-mouthed patron's at the bar) yet the service was slow.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="place" to="9"/>
+			<aspectTerm from="111" polarity="neutral" term="bar" to="114"/>
+			<aspectTerm from="124" polarity="negative" term="service" to="131"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It looks like a dive but serves up fresh authentic Mexican fare you won't normally find in your average Tex-Mex style restaraunt.</text>
+		<aspectTerms>
+			<aspectTerm from="51" polarity="positive" term="Mexican fare" to="63"/>
+			<aspectTerm from="118" polarity="negative" term="restaraunt" to="128"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>THE SERVICE- we had a reservation, they took forever to seat us and when they did we didn't see a waiter for about 15 minutes and he acted as if we were at some drive thru, rushing us and then ignoring our table (actually we hardly saw him at all) throughout the night.</text>
+		<aspectTerms>
+			<aspectTerm from="22" polarity="neutral" term="reservation" to="33"/>
+			<aspectTerm from="56" polarity="negative" term="seat" to="60"/>
+			<aspectTerm from="98" polarity="negative" term="waiter" to="104"/>
+			<aspectTerm from="263" polarity="neutral" term="night" to="268"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>) Howver, we didn't expect to be bumped by waiters a few times during our dinner.</text>
+		<aspectTerms>
+			<aspectTerm from="43" polarity="negative" term="waiters" to="50"/>
+			<aspectTerm from="74" polarity="neutral" term="dinner" to="80"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The momos (dumplings) are tiny with paper-thin dough, the shitake pancakes are to die for, the steamed greens (I forgot the name of the dish) is delicious as a vegetarian entry or with sauteed salmon.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="momos (dumplings)" to="21"/>
+			<aspectTerm from="47" polarity="positive" term="dough" to="52"/>
+			<aspectTerm from="58" polarity="positive" term="shitake pancakes" to="74"/>
+			<aspectTerm from="95" polarity="positive" term="steamed greens" to="109"/>
+			<aspectTerm from="136" polarity="neutral" term="dish" to="140"/>
+			<aspectTerm from="193" polarity="positive" term="salmon" to="199"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The food is undeniably good -- but not worth the wait.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="food" to="8"/>
+			<aspectTerm from="49" polarity="negative" term="wait" to="53"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Had an after-work drink at the bar with a date, loved the place so much we came back for brunch the next morning.</text>
+		<aspectTerms>
+			<aspectTerm from="18" polarity="neutral" term="drink" to="23"/>
+			<aspectTerm from="31" polarity="neutral" term="bar" to="34"/>
+			<aspectTerm from="58" polarity="positive" term="place" to="63"/>
+			<aspectTerm from="89" polarity="neutral" term="brunch" to="95"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>You have to be comfortable eating with your hands, sharing the same plate with your friends and be able to handle spicy food (not as spicy as some thai dishes though).</text>
+		<aspectTerms>
+			<aspectTerm from="68" polarity="neutral" term="plate" to="73"/>
+			<aspectTerm from="147" polarity="positive" term="thai dishes" to="158"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Last night was our second time dining here and we are still amazed with the food.</text>
+		<aspectTerms>
+			<aspectTerm from="31" polarity="neutral" term="dining" to="37"/>
+			<aspectTerm from="76" polarity="positive" term="food" to="80"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The cod was very good but a bit soupy in vegetable juices.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="cod" to="7"/>
+			<aspectTerm from="41" polarity="negative" term="vegetable juices" to="57"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>It's not going to win any awards for its decor, but the food is good, the portions are big, and the prices are low.</text>
+		<aspectTerms>
+			<aspectTerm from="41" polarity="negative" term="decor" to="46"/>
+			<aspectTerm from="56" polarity="positive" term="food" to="60"/>
+			<aspectTerm from="74" polarity="positive" term="portions" to="82"/>
+			<aspectTerm from="100" polarity="positive" term="prices" to="106"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Later, as our large party began filtering out, I overheard our waiter discussing the menu mixup to about 5 members of the staff, blaming us.</text>
+		<aspectTerms>
+			<aspectTerm from="85" polarity="neutral" term="menu" to="89"/>
+			<aspectTerm from="122" polarity="negative" term="staff" to="127"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Atmosphere, I'd give to Rosa or Maya, but Mexican fare at Zarela is tops.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="negative" term="Atmosphere" to="10"/>
+			<aspectTerm from="42" polarity="positive" term="Mexican fare" to="54"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The manager never came to our table and the restaurant didn't offer anything to compensate for the error (they could have taken the two cocktails off the check ).</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="manager" to="11"/>
+			<aspectTerm from="136" polarity="neutral" term="cocktails" to="145"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I've heard all the complaints about food and staff at this place, and perhaps some people have had an unfortunate encounter with the host or a cranky waiter.</text>
+		<aspectTerms>
+			<aspectTerm from="36" polarity="negative" term="food" to="40"/>
+			<aspectTerm from="45" polarity="negative" term="staff" to="50"/>
+			<aspectTerm from="150" polarity="negative" term="waiter" to="156"/>
+			<aspectTerm from="59" polarity="neutral" term="place" to="64"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>for the prices that are on the regular menu we were expecting something more upscale and less generic.</text>
+		<aspectTerms>
+			<aspectTerm from="8" polarity="negative" term="prices" to="14"/>
+			<aspectTerm from="39" polarity="neutral" term="menu" to="43"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Ok the manager did stand at the bar the whole time looking like his wife left him, he lost all his money at the track and had been drinking the rest of the day.</text>
+		<aspectTerms>
+			<aspectTerm from="7" polarity="negative" term="manager" to="14"/>
+			<aspectTerm from="32" polarity="neutral" term="bar" to="35"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waitress recommended four courses, not three, given their tiny size.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="waitress" to="12"/>
+			<aspectTerm from="30" polarity="neutral" term="courses" to="37"/>
+			<aspectTerm from="67" polarity="negative" term="size" to="71"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>We were the only two people sitting out front and the waiter was unable to provide us with attentive service OR our dinner.</text>
+		<aspectTerms>
+			<aspectTerm from="101" polarity="positive" term="service" to="108"/>
+			<aspectTerm from="116" polarity="neutral" term="dinner" to="122"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>no need for reservation) you'd expect the crew to be alittle more attentive.</text>
+		<aspectTerms>
+			<aspectTerm from="12" polarity="neutral" term="reservation" to="23"/>
+			<aspectTerm from="42" polarity="negative" term="crew" to="46"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>While I love this place, I do recommend going here mostly for lunch or an early dinner because the crowd and long wait can be annoying.</text>
+		<aspectTerms>
+			<aspectTerm from="62" polarity="neutral" term="lunch" to="67"/>
+			<aspectTerm from="80" polarity="neutral" term="dinner" to="86"/>
+			<aspectTerm from="114" polarity="negative" term="wait" to="118"/>
+			<aspectTerm from="18" polarity="positive" term="place" to="23"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Service wasn't great - they accidentally gave us our neighbors' entrees, and there was a good 40-minute wait between appetizers and main courses - but the food was overall very good, particularly the desserts.</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="positive" term="Service" to="7"/>
+			<aspectTerm from="132" polarity="neutral" term="main courses" to="144"/>
+			<aspectTerm from="155" polarity="positive" term="food" to="159"/>
+			<aspectTerm from="200" polarity="positive" term="desserts" to="208"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Scene Strictly Roots, which opened more than a decade ago as a dietary alternative to Harlem's more cholesterol- and fat-heavy fare, wears its philosophy on its facade: We serve nothing that crawls, walks, swims or flies.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="neutral" term="Scene" to="9"/>
+			<aspectTerm from="131" polarity="negative" term="fare" to="135"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The presentation was clever, and the food tasty however the service that accompanied it was so slow it made us feel neglected.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="presentation" to="16"/>
+			<aspectTerm from="37" polarity="positive" term="food" to="41"/>
+			<aspectTerm from="60" polarity="negative" term="service" to="67"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The menu prices are a bit expensive for what you get in quality and portion size.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="menu prices" to="15"/>
+			<aspectTerm from="56" polarity="neutral" term="quality" to="63"/>
+			<aspectTerm from="68" polarity="neutral" term="portion size" to="80"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Mom's cooking without the meat, the not-terribly-diverse but tempting nonetheless dinner menu is both filling and comforting, and the modest outer-boroughs price tag makes this place a definite return visit, particularly since it's only one train stop outside the city.</text>
+		<aspectTerms>
+			<aspectTerm from="6" polarity="positive" term="cooking" to="13"/>
+			<aspectTerm from="26" polarity="neutral" term="meat" to="30"/>
+			<aspectTerm from="82" polarity="positive" term="dinner menu" to="93"/>
+			<aspectTerm from="156" polarity="positive" term="price tag" to="165"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Food is okay for the price, however there is definitely better thai restaurants!!</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="positive" term="Food" to="4"/>
+			<aspectTerm from="21" polarity="neutral" term="price" to="26"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>In Short Though it's more of a takeout and delivery operation than a sit-down restaurant, Risotteria does offer eight small tables for those who want to savor their risotto hot off the stove.</text>
+		<aspectTerms>
+			<aspectTerm from="43" polarity="neutral" term="delivery" to="51"/>
+			<aspectTerm from="124" polarity="negative" term="tables" to="130"/>
+			<aspectTerm from="165" polarity="positive" term="risotto" to="172"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The manager came out very defensively and insisted that it was a 2 lb lobster.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="manager" to="11"/>
+			<aspectTerm from="70" polarity="neutral" term="lobster" to="77"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The waiters were rude, and the appetizer dip had bits of bread in it from someone else's dinner.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="negative" term="waiters" to="11"/>
+			<aspectTerm from="31" polarity="neutral" term="appetizer" to="40"/>
+			<aspectTerm from="57" polarity="neutral" term="bread" to="62"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Marisol at the front desk is serviceable; our sommelier, though not French, knew his Bordeaux, and our server was delightful.</text>
+		<aspectTerms>
+			<aspectTerm from="46" polarity="neutral" term="sommelier" to="55"/>
+			<aspectTerm from="103" polarity="positive" term="server" to="109"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>After dinner we ordered a hookah and after 20 minutes waitress comes by and tried to take it away because she claims our table is reserve for another group in 10 minute.</text>
+		<aspectTerms>
+			<aspectTerm from="6" polarity="neutral" term="dinner" to="12"/>
+			<aspectTerm from="54" polarity="negative" term="waitress" to="62"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Other than making the grill flame at the beginning our hibatchi chef didnt put on much of a show - no flipping stuff into is hat or our plates - so if that is your thing go to Benihani.</text>
+		<aspectTerms>
+			<aspectTerm from="64" polarity="negative" term="chef" to="68"/>
+			<aspectTerm from="136" polarity="neutral" term="plates" to="142"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The scene is pretty cool and the drinks are OK, but the food and service were pretty weak.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="scene" to="9"/>
+			<aspectTerm from="33" polarity="positive" term="drinks" to="39"/>
+			<aspectTerm from="65" polarity="negative" term="service" to="72"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Once the food came, we could not eat because we did not have the little plates for the soy sauce.</text>
+		<aspectTerms>
+			<aspectTerm from="9" polarity="neutral" term="food" to="13"/>
+			<aspectTerm from="72" polarity="neutral" term="plates" to="78"/>
+			<aspectTerm from="87" polarity="negative" term="soy sauce" to="96"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Russ Pizza serves up the best lasagna I have ever tasted (sorry mom!</text>
+		<aspectTerms>
+			<aspectTerm from="0" polarity="neutral" term="Russ Pizza" to="10"/>
+			<aspectTerm from="30" polarity="positive" term="lasagna" to="37"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The menu is divided up into several sections, and most of the dishes are smallish plates, like tapas.</text>
+		<aspectTerms>
+			<aspectTerm from="62" polarity="neutral" term="dishes" to="68"/>
+			<aspectTerm from="82" polarity="positive" term="plates" to="88"/>
+			<aspectTerm from="95" polarity="neutral" term="tapas" to="100"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Gia Lam I' s service is not much better but the food was.</text>
+		<aspectTerms>
+			<aspectTerm from="13" polarity="negative" term="service" to="20"/>
+			<aspectTerm from="48" polarity="positive" term="food" to="52"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>i went in one day asking for a table for a group and was greeted by a very rude hostess.</text>
+		<aspectTerms>
+			<aspectTerm from="31" polarity="neutral" term="table" to="36"/>
+			<aspectTerm from="80" polarity="negative" term="hostess" to="87"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Food Former Chef of Washington Park Daniel Eardley leans heavily on seasonal ingredients: An autumn appetizer of duck salad bursts with ripe pomegranate seeds; tender grilled octopus with peppers and turnips is a starter must for every table.</text>
+		<aspectTerms>
+			<aspectTerm from="81" polarity="positive" term="ingredients" to="92"/>
+			<aspectTerm from="104" polarity="neutral" term="appetizer" to="113"/>
+			<aspectTerm from="140" polarity="neutral" term="ripe pomegranate seeds" to="162"/>
+			<aspectTerm from="171" polarity="positive" term="grilled octopus" to="186"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>A guest from Montana wanted to get a NY Strip Steak while she was here, and New York magazine wrote up Monkey Bar as a good place.</text>
+		<aspectTerms>
+			<aspectTerm from="46" polarity="neutral" term="Steak" to="51"/>
+			<aspectTerm from="110" polarity="positive" term="Bar" to="113"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Scene Petite Abeille is ideal for a lazy lunch, a restorative brunch or light dinner.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="Scene" to="9"/>
+			<aspectTerm from="45" polarity="neutral" term="lunch" to="50"/>
+			<aspectTerm from="66" polarity="neutral" term="brunch" to="72"/>
+			<aspectTerm from="82" polarity="neutral" term="dinner" to="88"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>They bring over your favorite beverage before you sit down and while dining you listen to a killer jukebox.</text>
+		<aspectTerms>
+			<aspectTerm from="69" polarity="neutral" term="dining" to="75"/>
+			<aspectTerm from="99" polarity="positive" term="jukebox" to="106"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Don't let the decor fool you because you will miss out in some of the best food you ever eaten.</text>
+		<aspectTerms>
+			<aspectTerm from="14" polarity="negative" term="decor" to="19"/>
+			<aspectTerm from="75" polarity="positive" term="food" to="79"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>In Short A dark, narrow takeout area gives way to small tables in a cozy space decorated to resemble a Bedouin tent.</text>
+		<aspectTerms>
+			<aspectTerm from="24" polarity="negative" term="takeout" to="31"/>
+			<aspectTerm from="73" polarity="positive" term="space" to="78"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Spinache rolls have lots of garlic.</text>
+		<aspectTerms>
+			<aspectTerm from="9" polarity="neutral" term="rolls" to="14"/>
+			<aspectTerm from="28" polarity="positive" term="garlic" to="34"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>I use to always get the turkey club, until recently where I have gotten more bread than turkey.</text>
+		<aspectTerms>
+			<aspectTerm from="24" polarity="neutral" term="turkey club" to="35"/>
+			<aspectTerm from="77" polarity="positive" term="bread" to="82"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The decor is worth a mention, with plush seating areas that range from bar stools to table/chair combos to full sofa areas.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="decor" to="9"/>
+			<aspectTerm from="71" polarity="neutral" term="bar" to="74"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>The Food The menu is better suited to the snacking at the long bar than dining in the compact dining area.</text>
+		<aspectTerms>
+			<aspectTerm from="4" polarity="positive" term="Food" to="8"/>
+			<aspectTerm from="42" polarity="positive" term="snacking" to="50"/>
+			<aspectTerm from="63" polarity="neutral" term="bar" to="66"/>
+		</aspectTerms>
+	</sentence>
+	<sentence>
+		<text>Another favorite is the hanger steak which is always cooked to perfection and served with a generous amount of arugula and a balsamic vinegar reduction served as a sauce.</text>
+		<aspectTerms>
+			<aspectTerm from="24" polarity="positive" term="hanger steak" to="36"/>
+			<aspectTerm from="101" polarity="positive" term="amount of arugula" to="118"/>
+			<aspectTerm from="123" polarity="neutral" term="a balsamic vinegar reduction served" to="158"/>
+			<aspectTerm from="164" polarity="neutral" term="sauce" to="169"/>
+		</aspectTerms>
+	</sentence>
+</sentences>

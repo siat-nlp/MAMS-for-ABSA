@@ -1,0 +1,55 @@
+mode: term
+base_path: ./data/MAMS-ATSA
+glove_path: ./data/glove.840B.300d.txt
+sentiment_path: ./data/sentiment_dict.json
+lowercase: True
+max_vocab_size: None
+min_vocab_freq: 0
+aspect_term_model:
+  type: recurrent_capsnet
+  recurrent_capsnet:
+    embed_size: 300
+    dropout: 0.5
+    num_layers: 2
+    capsule_size: 300
+    bidirectional: True
+    optimizer: adam
+    batch_size: 64
+    learning_rate: 0.0003
+    weight_decay: 0
+    num_epoches: 20
+    gpu: 5
+  bert_capsnet:
+    bert_size: 768
+    capsule_size: 300
+    dropout: 0.1
+    optimizer: adam
+    batch_size: 32
+    learning_rate: 0.00002
+    weight_decay: 0
+    num_epoches: 5
+    gpu: 5
+aspect_category_model:
+  type: bert_capsnet
+  recurrent_capsnet:
+    embed_size: 300
+    dropout: 0.5
+    num_layers: 2
+    capsule_size: 300
+    bidirectional: True
+    optimizer: adam
+    batch_size: 64
+    learning_rate: 0.0003
+    weight_decay: 0
+    num_epoches: 20
+    gpu: 5
+  bert_capsnet:
+    bert_size: 768
+    capsule_size: 300
+    dropout: 0.1
+    optimizer: adam
+    batch_size: 32
+    learning_rate: 0.00003
+    weight_decay: 0
+    num_epoches: 5
+    gpu: 5
