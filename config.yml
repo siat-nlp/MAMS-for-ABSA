@@ -18,7 +18,7 @@ aspect_term_model:
     learning_rate: 0.0003
     weight_decay: 0
     num_epoches: 20
-    gpu: 5
+    gpu: 0
   bert_capsnet:
     bert_size: 768
     capsule_size: 300
@@ -28,9 +28,9 @@ aspect_term_model:
     learning_rate: 0.00002
     weight_decay: 0
     num_epoches: 5
-    gpu: 5
+    gpu: 0
 aspect_category_model:
-  type: bert_capsnet
+  type: recurrent_capsnet
   recurrent_capsnet:
     embed_size: 300
     dropout: 0.5
@@ -42,7 +42,7 @@ aspect_category_model:
     learning_rate: 0.0003
     weight_decay: 0
     num_epoches: 20
-    gpu: 5
+    gpu: 0
   bert_capsnet:
     bert_size: 768
     capsule_size: 300
@@ -52,4 +52,4 @@ aspect_category_model:
     learning_rate: 0.00003
     weight_decay: 0
     num_epoches: 5
-    gpu: 5
+    gpu: 0

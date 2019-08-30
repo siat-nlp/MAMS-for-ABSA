@@ -32,11 +32,6 @@ def train(config):
     optimizer = make_optimizer(config, model)
     max_val_accuracy = 0
     min_val_loss = 100
-    if not os.path.exists('log'):
-        os.makedirs('log')
-    for path in os.listdir('log'):
-        path = os.path.join('log', path)
-        os.remove(path)
     global_step = 0
     config = config['aspect_' + mode + '_model'][config['aspect_' + mode + '_model']['type']]
     for epoch in range(config['num_epoches']):
