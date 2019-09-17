@@ -19,7 +19,7 @@ def make_model(config):
 def make_bert_capsule_network(config):
     base_path = os.path.join(config['base_path'])
     log_path = os.path.join(base_path, 'log/log.yml')
-    log = yaml.load(open(log_path))
+    log = yaml.safe_load(open(log_path))
     config = config['aspect_term_model'][config['aspect_term_model']['type']]
     bert = BertModel.from_pretrained('bert-base-uncased')
     model = BertCapsuleNetwork(
@@ -36,7 +36,7 @@ def make_recurrent_capsule_network(config):
     embedding = make_embedding(config)
     base_path = os.path.join(config['base_path'])
     log_path = os.path.join(base_path, 'log/log.yml')
-    log = yaml.load(open(log_path))
+    log = yaml.safe_load(open(log_path))
     config = config['aspect_term_model'][config['aspect_term_model']['type']]
     model = RecurrentCapsuleNetwork(
         embedding=embedding,
@@ -52,7 +52,7 @@ def make_recurrent_capsule_network(config):
 def make_embedding(config):
     base_path = os.path.join(config['base_path'])
     log_path = os.path.join(base_path, 'log/log.yml')
-    log = yaml.load(open(log_path))
+    log = yaml.safe_load(open(log_path))
     vocab_size = log['vocab_size']
     config = config['aspect_term_model'][config['aspect_term_model']['type']]
     embed_size = config['embed_size']
