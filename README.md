@@ -1,6 +1,6 @@
 # MAMS-for-ABSA
 
-This repository contains the data and code for the paper "A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis", EMNLP-IJCNLP 2019.
+This repository contains the data and code for the paper "A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis", EMNLP-IJCNLP 2019, [[paper]](https://www.aclweb.org/anthology/D19-1654.pdf).
 
 ## MAMS
 
